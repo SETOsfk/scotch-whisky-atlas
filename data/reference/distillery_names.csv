@@ -1,0 +1,25 @@
+raw,display,pattern
+Belvenie,Balvenie,balvenie
+Laphroig,Laphroaig,laphroaig
+Craigallechie,Craigellachie,craigellachie
+Craigganmore,Cragganmore,cragganmore
+Knochando,Knockando,knockando
+ArranIsleOf,Isle of Arran,\barran\b
+AnCnoc,anCnoc (Knockdhu),ancnoc|knockdhu
+BenNevis,Ben Nevis,
+BlairAthol,Blair Athol,
+GlenDeveronMacduff,Glen Deveron (Macduff),glen deveron|macduff
+GlenElgin,Glen Elgin,
+GlenGarioch,Glen Garioch,
+GlenGrant,Glen Grant,
+GlenKeith,Glen Keith,
+GlenMoray,Glen Moray,
+GlenOrd,Glen Ord,
+GlenScotia,Glen Scotia,
+GlenSpey,Glen Spey,
+Isle of Jura,Isle of Jura,\bjura\b
+OldFettercairn,Fettercairn,fettercairn
+OldPulteney,Old Pulteney,pulteney
+RoyalBrackla,Royal Brackla,
+RoyalLochnagar,Royal Lochnagar,
+Speyside,Speyside,none

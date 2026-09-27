@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>WhiskyOut</name>
+<Schema name="WhiskyOut" id="WhiskyOut">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="RowID_" type="int"></SimpleField>
+	<SimpleField name="Distillery" type="string"></SimpleField>
+	<SimpleField name="Body" type="int"></SimpleField>
+	<SimpleField name="Sweetness" type="int"></SimpleField>
+	<SimpleField name="Smoky" type="int"></SimpleField>
+	<SimpleField name="Medicinal" type="int"></SimpleField>
+	<SimpleField name="Tobacco" type="int"></SimpleField>
+	<SimpleField name="Honey" type="int"></SimpleField>
+	<SimpleField name="Spicy" type="int"></SimpleField>
+	<SimpleField name="Winey" type="int"></SimpleField>
+	<SimpleField name="Nutty" type="int"></SimpleField>
+	<SimpleField name="Malty" type="int"></SimpleField>
+	<SimpleField name="Fruity" type="int"></SimpleField>
+	<SimpleField name="Floral" type="int"></SimpleField>
+	<SimpleField name="Postcode" type="string"></SimpleField>
+	<SimpleField name="Easting" type="int"></SimpleField>
+	<SimpleField name="Northing" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">1</SimpleData>
+		<SimpleData name="Distillery">Aberfeldy</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH15 2EB</SimpleData>
+		<SimpleData name="Easting">286580</SimpleData>
+		<SimpleData name="Northing">749680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.850198957101903,56.625191153630396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">2</SimpleData>
+		<SimpleData name="Distillery">Aberlour</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">4</SimpleData>
+		<SimpleData name="Spicy">3</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 9PJ</SimpleData>
+		<SimpleData name="Easting">326340</SimpleData>
+		<SimpleData name="Northing">842570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.229643818336304,57.467394733643701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">3</SimpleData>
+		<SimpleData name="Distillery">AnCnoc</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB5 5LI</SimpleData>
+		<SimpleData name="Easting">352960</SimpleData>
+		<SimpleData name="Northing">839320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.785294546693963,57.441750846311045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">4</SimpleData>
+		<SimpleData name="Distillery">Ardbeg</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">4</SimpleData>
+		<SimpleData name="Medicinal">4</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">PA42 7EB</SimpleData>
+		<SimpleData name="Easting">141560</SimpleData>
+		<SimpleData name="Northing">646220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.108502839394496,55.64060693099745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">5</SimpleData>
+		<SimpleData name="Distillery">Ardmore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB54 4NH</SimpleData>
+		<SimpleData name="Easting">355350</SimpleData>
+		<SimpleData name="Northing">829140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.743628458243972,57.3505569858645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">6</SimpleData>
+		<SimpleData name="Distillery">ArranIsleOf</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">KA27 8HJ</SimpleData>
+		<SimpleData name="Easting">194050</SimpleData>
+		<SimpleData name="Northing">649950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.27889459136203,55.699145432124517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">7</SimpleData>
+		<SimpleData name="Distillery">Auchentoshan</SimpleData>
+		<SimpleData name="Body">0</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">0</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">G81 4SJ</SimpleData>
+		<SimpleData name="Easting">247670</SimpleData>
+		<SimpleData name="Northing">672610</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.439338821947583,55.922373100502213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">8</SimpleData>
+		<SimpleData name="Distillery">Auchroisk</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB55 3XS</SimpleData>
+		<SimpleData name="Easting">340754</SimpleData>
+		<SimpleData name="Northing">848623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.990864846547299,57.523871929601135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">9</SimpleData>
+		<SimpleData name="Distillery">Aultmore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 3QY</SimpleData>
+		<SimpleData name="Easting">340754</SimpleData>
+		<SimpleData name="Northing">848623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.990864846547299,57.523871929601135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">10</SimpleData>
+		<SimpleData name="Distillery">Balblair</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">IV19 1LB</SimpleData>
+		<SimpleData name="Easting">270820</SimpleData>
+		<SimpleData name="Northing">885770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.177749126907242,57.842735004632694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">11</SimpleData>
+		<SimpleData name="Distillery">Balmenach</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">3</SimpleData>
+		<SimpleData name="Nutty">3</SimpleData>
+		<SimpleData name="Malty">0</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH26 3PF</SimpleData>
+		<SimpleData name="Easting">307750</SimpleData>
+		<SimpleData name="Northing">827170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.533655723196721,57.325709408349645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">12</SimpleData>
+		<SimpleData name="Distillery">Belvenie</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">3</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 4DH</SimpleData>
+		<SimpleData name="Easting">332680</SimpleData>
+		<SimpleData name="Northing">840840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.123496637708258,57.452844206328116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">13</SimpleData>
+		<SimpleData name="Distillery">BenNevis</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH33 6TJ</SimpleData>
+		<SimpleData name="Easting">212600</SimpleData>
+		<SimpleData name="Northing">775710</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.073417904598982,56.83495219105842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">14</SimpleData>
+		<SimpleData name="Distillery">Benriach</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV30 8SJ</SimpleData>
+		<SimpleData name="Easting">323450</SimpleData>
+		<SimpleData name="Northing">858380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.282789173431835,57.608892775889636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">15</SimpleData>
+		<SimpleData name="Distillery">Benrinnes</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">3</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 9NN</SimpleData>
+		<SimpleData name="Easting">325800</SimpleData>
+		<SimpleData name="Northing">839920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.237839158320483,57.443508400535741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">16</SimpleData>
+		<SimpleData name="Distillery">Benromach</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV36 3EB</SimpleData>
+		<SimpleData name="Easting">303330</SimpleData>
+		<SimpleData name="Northing">859350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.619764350192745,57.613737024168877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">17</SimpleData>
+		<SimpleData name="Distillery">Bladnoch</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">DG8 9AB</SimpleData>
+		<SimpleData name="Easting">242260</SimpleData>
+		<SimpleData name="Northing">554260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.458949215384026,54.858192604848277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">18</SimpleData>
+		<SimpleData name="Distillery">BlairAthol</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH16 5LY</SimpleData>
+		<SimpleData name="Easting">294860</SimpleData>
+		<SimpleData name="Northing">757580</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.718544022853684,56.698063385974471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">19</SimpleData>
+		<SimpleData name="Distillery">Bowmore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">3</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PA43 7GS</SimpleData>
+		<SimpleData name="Easting">131330</SimpleData>
+		<SimpleData name="Northing">659720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.283806167358399,55.756024329522553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">20</SimpleData>
+		<SimpleData name="Distillery">Bruichladdich</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PA49 7UN</SimpleData>
+		<SimpleData name="Easting">126680</SimpleData>
+		<SimpleData name="Northing">661400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.359364423419263,55.76847330217646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">21</SimpleData>
+		<SimpleData name="Distillery">Bunnahabhain</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">PA46 7RR</SimpleData>
+		<SimpleData name="Easting">142210</SimpleData>
+		<SimpleData name="Northing">673170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.123656761625972,55.88247491626872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">22</SimpleData>
+		<SimpleData name="Distillery">Caol Ila</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">4</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">PA46 7RL</SimpleData>
+		<SimpleData name="Easting">142920</SimpleData>
+		<SimpleData name="Northing">670040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.109368666899305,55.854803965892017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">23</SimpleData>
+		<SimpleData name="Distillery">Cardhu</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 7RY</SimpleData>
+		<SimpleData name="Easting">318790</SimpleData>
+		<SimpleData name="Northing">843090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.355645075387555,57.470774337978192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">24</SimpleData>
+		<SimpleData name="Distillery">Clynelish</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">3</SimpleData>
+		<SimpleData name="Medicinal">3</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">KW9 6LB</SimpleData>
+		<SimpleData name="Easting">290250</SimpleData>
+		<SimpleData name="Northing">904230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.859208416443545,58.013647431076663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">25</SimpleData>
+		<SimpleData name="Distillery">Craigallechie</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">4</SimpleData>
+		<SimpleData name="Postcode">AB38 9ST</SimpleData>
+		<SimpleData name="Easting">328920</SimpleData>
+		<SimpleData name="Northing">844920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.187327786221482,57.488911201103591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">26</SimpleData>
+		<SimpleData name="Distillery">Craigganmore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB37 9AB</SimpleData>
+		<SimpleData name="Easting">316600</SimpleData>
+		<SimpleData name="Northing">836370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.389855460929972,57.410031411562542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">27</SimpleData>
+		<SimpleData name="Distillery">Dailuaine</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB38 7RE</SimpleData>
+		<SimpleData name="Easting">323520</SimpleData>
+		<SimpleData name="Northing">841010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.276154832781711,57.452918274903574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">28</SimpleData>
+		<SimpleData name="Distillery">Dalmore</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">IV17 0UT</SimpleData>
+		<SimpleData name="Easting">266610</SimpleData>
+		<SimpleData name="Northing">868730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.239120267040848,57.688560668083035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">29</SimpleData>
+		<SimpleData name="Distillery">Dalwhinnie</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH19 1AB</SimpleData>
+		<SimpleData name="Easting">263670</SimpleData>
+		<SimpleData name="Northing">785270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.24229273124808,56.938563260996943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">30</SimpleData>
+		<SimpleData name="Distillery">Deanston</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">FK16 6AG</SimpleData>
+		<SimpleData name="Easting">271570</SimpleData>
+		<SimpleData name="Northing">701570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.071063662010893,56.189376377047033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">31</SimpleData>
+		<SimpleData name="Distillery">Dufftown</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 4BR</SimpleData>
+		<SimpleData name="Easting">332360</SimpleData>
+		<SimpleData name="Northing">839200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.128374336751089,57.438068003420348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">32</SimpleData>
+		<SimpleData name="Distillery">Edradour</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">4</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH16 5JP</SimpleData>
+		<SimpleData name="Easting">295960</SimpleData>
+		<SimpleData name="Northing">757940</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.700735932171547,56.701542514659323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">33</SimpleData>
+		<SimpleData name="Distillery">GlenDeveronMacduff</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB4 3JT</SimpleData>
+		<SimpleData name="Easting">372120</SimpleData>
+		<SimpleData name="Northing">860400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.468546909468924,57.632679314488705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">34</SimpleData>
+		<SimpleData name="Distillery">GlenElgin</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">IV30 3SL</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">35</SimpleData>
+		<SimpleData name="Distillery">GlenGarioch</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">3</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">3</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB51 0ES</SimpleData>
+		<SimpleData name="Easting">381020</SimpleData>
+		<SimpleData name="Northing">827590</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.316943226304238,57.338431974318297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">36</SimpleData>
+		<SimpleData name="Distillery">GlenGrant</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">0</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB38 7BS</SimpleData>
+		<SimpleData name="Easting">327610</SimpleData>
+		<SimpleData name="Northing">849570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.210556658073115,57.530462894813844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">37</SimpleData>
+		<SimpleData name="Distillery">GlenKeith</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB55 3BU</SimpleData>
+		<SimpleData name="Easting">340754</SimpleData>
+		<SimpleData name="Northing">848623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.990864846547299,57.523871929601135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">38</SimpleData>
+		<SimpleData name="Distillery">GlenMoray</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">4</SimpleData>
+		<SimpleData name="Postcode">IV30 1YE</SimpleData>
+		<SimpleData name="Easting">319820</SimpleData>
+		<SimpleData name="Northing">862320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.344828883823958,57.64364228529719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">39</SimpleData>
+		<SimpleData name="Distillery">GlenOrd</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV6 7UJ</SimpleData>
+		<SimpleData name="Easting">251810</SimpleData>
+		<SimpleData name="Northing">850860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.476184993196885,57.523563689058065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">40</SimpleData>
+		<SimpleData name="Distillery">GlenScotia</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">PA28 6DS</SimpleData>
+		<SimpleData name="Easting">172090</SimpleData>
+		<SimpleData name="Northing">621010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.603737243158864,55.429809873517613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">41</SimpleData>
+		<SimpleData name="Distillery">GlenSpey</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 7AU</SimpleData>
+		<SimpleData name="Easting">327760</SimpleData>
+		<SimpleData name="Northing">849140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.207924582841111,57.526625291820444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">42</SimpleData>
+		<SimpleData name="Distillery">Glenallachie</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 9LR</SimpleData>
+		<SimpleData name="Easting">326490</SimpleData>
+		<SimpleData name="Northing">841240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.226743558286327,57.455475032293847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">43</SimpleData>
+		<SimpleData name="Distillery">Glendronach</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">4</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">AB54 6DA</SimpleData>
+		<SimpleData name="Easting">361200</SimpleData>
+		<SimpleData name="Northing">844930</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.648927428525167,57.492920289812389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">44</SimpleData>
+		<SimpleData name="Distillery">Glendullan</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 4DJ</SimpleData>
+		<SimpleData name="Easting">333000</SimpleData>
+		<SimpleData name="Northing">840300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.118017167324989,57.448041948549303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">45</SimpleData>
+		<SimpleData name="Distillery">Glenfarclas</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">4</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">3</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB37 9BD</SimpleData>
+		<SimpleData name="Easting">320950</SimpleData>
+		<SimpleData name="Northing">838160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.318049045742667,57.426883935232745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">46</SimpleData>
+		<SimpleData name="Distillery">Glenfiddich</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 4DH</SimpleData>
+		<SimpleData name="Easting">332680</SimpleData>
+		<SimpleData name="Northing">840840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.123496637708258,57.452844206328116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">47</SimpleData>
+		<SimpleData name="Distillery">Glengoyne</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">0</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">G63 9LB</SimpleData>
+		<SimpleData name="Easting">252810</SimpleData>
+		<SimpleData name="Northing">682750</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.36270641372877,56.015001669903882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">48</SimpleData>
+		<SimpleData name="Distillery">Glenkinchie</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">EH34 5ET</SimpleData>
+		<SimpleData name="Easting">344380</SimpleData>
+		<SimpleData name="Northing">666690</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.890845219956499,55.890117248846387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">49</SimpleData>
+		<SimpleData name="Distillery">Glenlivet</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">AB37 9DB</SimpleData>
+		<SimpleData name="Easting">319560</SimpleData>
+		<SimpleData name="Northing">828780</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.338116225645975,57.342405368247633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">50</SimpleData>
+		<SimpleData name="Distillery">Glenlossie</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV30 3SS</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">51</SimpleData>
+		<SimpleData name="Distillery">Glenmorangie</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV19 1PZ</SimpleData>
+		<SimpleData name="Easting">276750</SimpleData>
+		<SimpleData name="Northing">883450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.076734540409666,57.823584879614394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">52</SimpleData>
+		<SimpleData name="Distillery">Glenrothes</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">AB38 7AA</SimpleData>
+		<SimpleData name="Easting">327650</SimpleData>
+		<SimpleData name="Northing">849170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.209769828944574,57.526877116055871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">53</SimpleData>
+		<SimpleData name="Distillery">Glenturret</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH7 4HA</SimpleData>
+		<SimpleData name="Easting">285630</SimpleData>
+		<SimpleData name="Northing">723580</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.854193913306627,56.39060298617126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">54</SimpleData>
+		<SimpleData name="Distillery">Highland Park</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">3</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">KW15 1SU</SimpleData>
+		<SimpleData name="Easting">345340</SimpleData>
+		<SimpleData name="Northing">1009260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.952215417986226,58.967010222549497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">55</SimpleData>
+		<SimpleData name="Distillery">Inchgower</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB56 5AB</SimpleData>
+		<SimpleData name="Easting">342610</SimpleData>
+		<SimpleData name="Northing">863970</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.963519713795236,57.661944376816777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">56</SimpleData>
+		<SimpleData name="Distillery">Isle of Jura</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">PA60 7XT</SimpleData>
+		<SimpleData name="Easting">152660</SimpleData>
+		<SimpleData name="Northing">667040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.951427713503907,55.833006240489588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">57</SimpleData>
+		<SimpleData name="Distillery">Knochando</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 7RT</SimpleData>
+		<SimpleData name="Easting">319470</SimpleData>
+		<SimpleData name="Northing">841570</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.34381006213559,57.457245968406099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">58</SimpleData>
+		<SimpleData name="Distillery">Lagavulin</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">4</SimpleData>
+		<SimpleData name="Medicinal">4</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">PA42 7DZ</SimpleData>
+		<SimpleData name="Easting">140430</SimpleData>
+		<SimpleData name="Northing">645730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.125945524272195,55.635613747841518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">59</SimpleData>
+		<SimpleData name="Distillery">Laphroig</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">4</SimpleData>
+		<SimpleData name="Medicinal">4</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">PA42 7DU</SimpleData>
+		<SimpleData name="Easting">138680</SimpleData>
+		<SimpleData name="Northing">645160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.153128873957618,55.629568570183146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">60</SimpleData>
+		<SimpleData name="Distillery">Linkwood</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV30 3RD</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">61</SimpleData>
+		<SimpleData name="Distillery">Loch Lomond</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">G83 0TL</SimpleData>
+		<SimpleData name="Easting">239370</SimpleData>
+		<SimpleData name="Northing">680920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.576972669369702,55.994260232207964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">62</SimpleData>
+		<SimpleData name="Distillery">Longmorn</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">3</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">IV30 3SJ</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">63</SimpleData>
+		<SimpleData name="Distillery">Macallan</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">4</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB38 9RX</SimpleData>
+		<SimpleData name="Easting">327710</SimpleData>
+		<SimpleData name="Northing">844480</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.207376099698618,57.484768192902607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">64</SimpleData>
+		<SimpleData name="Distillery">Mannochmore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV30 3SS</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">65</SimpleData>
+		<SimpleData name="Distillery">Miltonduff</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">4</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV30 3TQ</SimpleData>
+		<SimpleData name="Easting">322640</SimpleData>
+		<SimpleData name="Northing">861040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.297192517972732,57.632641352764857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">66</SimpleData>
+		<SimpleData name="Distillery">Mortlach</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">3</SimpleData>
+		<SimpleData name="Winey">3</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 4AQ</SimpleData>
+		<SimpleData name="Easting">332950</SimpleData>
+		<SimpleData name="Northing">839850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.118726677908201,57.443993168171794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">67</SimpleData>
+		<SimpleData name="Distillery">Oban</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">PA34 5NH</SimpleData>
+		<SimpleData name="Easting">185940</SimpleData>
+		<SimpleData name="Northing">730190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.471832669365845,56.415258942769952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">68</SimpleData>
+		<SimpleData name="Distillery">OldFettercairn</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB30 1YE</SimpleData>
+		<SimpleData name="Easting">370860</SimpleData>
+		<SimpleData name="Northing">772900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.479332294512348,56.846625800850376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">69</SimpleData>
+		<SimpleData name="Distillery">OldPulteney</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">KW1 5BA</SimpleData>
+		<SimpleData name="Easting">336730</SimpleData>
+		<SimpleData name="Northing">950130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.085261311836106,58.43488448334881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">70</SimpleData>
+		<SimpleData name="Distillery">RoyalBrackla</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV12 5QY</SimpleData>
+		<SimpleData name="Easting">286040</SimpleData>
+		<SimpleData name="Northing">851320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.905230473239686,57.537609874008623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">71</SimpleData>
+		<SimpleData name="Distillery">RoyalLochnagar</SimpleData>
+		<SimpleData name="Body">3</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">AB35 5TB</SimpleData>
+		<SimpleData name="Easting">326140</SimpleData>
+		<SimpleData name="Northing">794370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.218601902589914,57.034487522717775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">72</SimpleData>
+		<SimpleData name="Distillery">Scapa</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">KW15 1SE</SimpleData>
+		<SimpleData name="Easting">342850</SimpleData>
+		<SimpleData name="Northing">1008930</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.995421117004216,58.963721381801598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">73</SimpleData>
+		<SimpleData name="Distillery">Speyburn</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">4</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">1</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 7AG</SimpleData>
+		<SimpleData name="Easting">326930</SimpleData>
+		<SimpleData name="Northing">851430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.222468856691742,57.547057035865215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">74</SimpleData>
+		<SimpleData name="Distillery">Speyside</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PH21 1NS</SimpleData>
+		<SimpleData name="Easting">278740</SimpleData>
+		<SimpleData name="Northing">800600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.002173626165669,57.080386819953205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">75</SimpleData>
+		<SimpleData name="Distillery">Springbank</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">2</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">PA28 6EJ</SimpleData>
+		<SimpleData name="Easting">172280</SimpleData>
+		<SimpleData name="Northing">620910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.600659155001888,55.429001429429327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">76</SimpleData>
+		<SimpleData name="Distillery">Strathisla</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">2</SimpleData>
+		<SimpleData name="Nutty">3</SimpleData>
+		<SimpleData name="Malty">3</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 3BS</SimpleData>
+		<SimpleData name="Easting">340754</SimpleData>
+		<SimpleData name="Northing">848623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.990864846547299,57.523871929601135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">77</SimpleData>
+		<SimpleData name="Distillery">Strathmill</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">3</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB55 5DQ</SimpleData>
+		<SimpleData name="Easting">342650</SimpleData>
+		<SimpleData name="Northing">850500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.959656103575315,57.540974184834695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">78</SimpleData>
+		<SimpleData name="Distillery">Talisker</SimpleData>
+		<SimpleData name="Body">4</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">3</SimpleData>
+		<SimpleData name="Medicinal">3</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">3</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">IV47 8SR</SimpleData>
+		<SimpleData name="Easting">137950</SimpleData>
+		<SimpleData name="Northing">831770</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.352166013102266,57.301051057657645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">79</SimpleData>
+		<SimpleData name="Distillery">Tamdhu</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB38 7RP</SimpleData>
+		<SimpleData name="Easting">319210</SimpleData>
+		<SimpleData name="Northing">841760</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.348204820817207,57.458905927653625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">80</SimpleData>
+		<SimpleData name="Distillery">Tamnavulin</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">3</SimpleData>
+		<SimpleData name="Postcode">AB37 9JA</SimpleData>
+		<SimpleData name="Easting">321180</SimpleData>
+		<SimpleData name="Northing">826110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.310354745678029,57.318711004168904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">81</SimpleData>
+		<SimpleData name="Distillery">Teaninich</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">1</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">0</SimpleData>
+		<SimpleData name="Malty">0</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">IV17 0XB</SimpleData>
+		<SimpleData name="Easting">265360</SimpleData>
+		<SimpleData name="Northing">869120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.26028700152998,57.691688489326374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">82</SimpleData>
+		<SimpleData name="Distillery">Tobermory</SimpleData>
+		<SimpleData name="Body">1</SimpleData>
+		<SimpleData name="Sweetness">1</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">0</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">PA75 6NR</SimpleData>
+		<SimpleData name="Easting">150450</SimpleData>
+		<SimpleData name="Northing">755070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.069530416526311,56.620805985846523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">83</SimpleData>
+		<SimpleData name="Distillery">Tomatin</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">2</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">IV13 7YT</SimpleData>
+		<SimpleData name="Easting">279120</SimpleData>
+		<SimpleData name="Northing">829630</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.010031326723145,57.341101416486161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">84</SimpleData>
+		<SimpleData name="Distillery">Tomintoul</SimpleData>
+		<SimpleData name="Body">0</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">2</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">1</SimpleData>
+		<SimpleData name="Floral">2</SimpleData>
+		<SimpleData name="Postcode">AB37 9AQ</SimpleData>
+		<SimpleData name="Easting">315100</SimpleData>
+		<SimpleData name="Northing">825560</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.411082814702312,57.312680088833041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">85</SimpleData>
+		<SimpleData name="Distillery">Tormore</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">2</SimpleData>
+		<SimpleData name="Smoky">1</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">0</SimpleData>
+		<SimpleData name="Honey">1</SimpleData>
+		<SimpleData name="Spicy">0</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">2</SimpleData>
+		<SimpleData name="Malty">1</SimpleData>
+		<SimpleData name="Fruity">0</SimpleData>
+		<SimpleData name="Floral">0</SimpleData>
+		<SimpleData name="Postcode">PH26 3LR</SimpleData>
+		<SimpleData name="Easting">315180</SimpleData>
+		<SimpleData name="Northing">834960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.412995809318415,57.397106811521475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#WhiskyOut">
+		<SimpleData name="RowID_">86</SimpleData>
+		<SimpleData name="Distillery">Tullibardine</SimpleData>
+		<SimpleData name="Body">2</SimpleData>
+		<SimpleData name="Sweetness">3</SimpleData>
+		<SimpleData name="Smoky">0</SimpleData>
+		<SimpleData name="Medicinal">0</SimpleData>
+		<SimpleData name="Tobacco">1</SimpleData>
+		<SimpleData name="Honey">0</SimpleData>
+		<SimpleData name="Spicy">2</SimpleData>
+		<SimpleData name="Winey">1</SimpleData>
+		<SimpleData name="Nutty">1</SimpleData>
+		<SimpleData name="Malty">2</SimpleData>
+		<SimpleData name="Fruity">2</SimpleData>
+		<SimpleData name="Floral">1</SimpleData>
+		<SimpleData name="Postcode">PH4 1QG</SimpleData>
+		<SimpleData name="Easting">289690</SimpleData>
+		<SimpleData name="Northing">708850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.782289477921929,56.259295648395693</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

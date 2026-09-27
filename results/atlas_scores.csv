@@ -1,0 +1,87 @@
+distillery,cluster,kmeans,pc1,pc2
+Aberfeldy,2,1,-0.5034,1.122
+Aberlour,2,1,-1.4789,3.0049
+anCnoc (Knockdhu),2,1,-1.2531,-0.6537
+Ardbeg,1,0,5.2717,-0.5101
+Ardmore,2,1,0.2135,0.1743
+Auchentoshan,2,1,-2.4721,-1.7024
+Auchroisk,2,1,-0.8004,1.2306
+Aultmore,2,1,-0.7436,-0.8195
+Balblair,2,1,0.9555,-0.9042
+Balmenach,2,1,0.3889,2.7216
+Balvenie,2,1,-0.6502,0.9777
+Ben Nevis,2,1,0.352,1.0008
+Benriach,2,1,-0.9553,-0.4475
+Benrinnes,2,1,-0.4535,1.4946
+Benromach,2,1,-0.4078,0.6579
+Bladnoch,2,1,-1.1519,-1.5651
+Blair Athol,2,1,-0.2244,0.8795
+Bowmore,2,1,1.0232,0.0787
+Bruichladdich,2,1,0.5845,-0.2016
+Bunnahabhain,2,1,-0.8452,-1.0476
+Caol Ila,1,0,3.5479,-0.6732
+Cardhu,2,1,-1.2497,-1.0887
+Clynelish,1,0,3.6715,-0.862
+Cragganmore,2,1,0.3856,-1.1075
+Craigellachie,2,1,-0.8816,0.2526
+Dailuaine,2,1,0.882,1.9929
+Dalmore,2,1,0.9414,1.2042
+Dalwhinnie,2,1,-0.3808,-0.4176
+Deanston,2,1,-0.6401,0.387
+Dufftown,2,1,-0.1028,-1.6121
+Edradour,2,1,-1.2422,0.9809
+Fettercairn,2,1,-0.2188,0.2565
+Glen Deveron (Macduff),2,1,0.5876,-0.1364
+Glen Elgin,2,1,-1.3553,-0.0338
+Glen Garioch,2,1,0.8684,-0.5012
+Glen Grant,2,1,-1.1084,-0.7121
+Glen Keith,2,1,-0.3561,0.2455
+Glen Moray,2,1,-1.7939,-0.5817
+Glen Ord,2,1,-0.256,0.4021
+Glen Scotia,2,0,1.4337,-0.4257
+Glen Spey,2,1,-0.6138,-1.3749
+Glenallachie,2,1,-1.202,-1.3491
+Glendronach,2,1,0.912,3.6454
+Glendullan,2,1,-0.7748,1.408
+Glenfarclas,2,1,-1.2735,1.6466
+Glenfiddich,2,1,-0.9916,-2.2029
+Glengoyne,2,1,-1.7645,-0.4407
+Glenkinchie,2,1,-0.8933,-1.4806
+Glenlivet,2,1,-1.4625,0.8842
+Glenlossie,2,1,-0.9409,-1.2202
+Glenmorangie,2,1,0.0757,-0.7323
+Glenrothes,2,1,-0.1478,0.683
+Glenturret,2,1,-0.9238,1.1516
+Highland Park,2,1,1.2213,0.137
+Inchgower,2,1,-0.5872,-1.0402
+Isle of Arran,2,1,0.0748,-0.866
+Isle of Jura,2,0,1.8601,-1.0394
+Knockando,2,1,-0.9609,0.5327
+Lagavulin,1,0,5.3582,0.4707
+Laphroaig,1,0,5.337,-0.4216
+Linkwood,2,1,-0.9426,0.1819
+Loch Lomond,2,1,-0.0184,-1.7268
+Longmorn,2,1,-0.9212,0.7195
+Macallan,2,1,-0.3553,3.6163
+Mannochmore,2,1,-0.3922,-0.1539
+Miltonduff,2,1,-0.8194,-0.953
+Mortlach,2,1,0.0644,2.501
+Oban,2,0,1.9899,-0.8779
+Old Pulteney,2,0,1.4212,-0.7419
+Royal Brackla,2,1,0.1701,-0.2914
+Royal Lochnagar,2,1,0.0975,2.0433
+Scapa,2,1,-0.3686,0.2528
+Speyburn,2,1,-1.0147,-0.7773
+Speyside,2,1,-0.7811,-0.1798
+Springbank,2,0,1.6592,0.1166
+Strathisla,2,1,-1.3011,1.7158
+Strathmill,2,1,-0.684,-0.8191
+Talisker,1,0,3.6504,0.3458
+Tamdhu,2,1,-1.3155,-0.5135
+Tamnavulin,2,1,-0.7488,-1.4962
+Teaninich,2,1,0.9977,-1.7052
+Tobermory,2,1,-0.8542,-1.6178
+Tomatin,2,1,0.2255,0.3273
+Tomintoul,2,1,-1.5611,-0.731
+Tormore,2,1,0.5193,-0.2688
+Tullibardine,2,1,-0.6015,-0.4187

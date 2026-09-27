@@ -1,0 +1,84 @@
+distillery,n,median_points,median_price,median_residual
+Aberfeldy,14,87.0,129.0,-1.168
+Aberlour,11,89.0,90.0,0.81
+Ardbeg,38,91.0,114.5,2.326
+Ardmore,9,87.0,65.0,-0.066
+Auchentoshan,34,86.0,96.0,-2.566
+Auchroisk,7,86.0,120.0,-2.271
+Aultmore,7,88.0,85.0,-1.827
+Balblair,25,87.0,85.0,-0.788
+Balmenach,4,89.5,152.5,0.85
+Balvenie,47,90.0,306.5,0.268
+Ben Nevis,10,87.0,122.5,-0.901
+Benriach,38,88.0,89.0,0.326
+Benrinnes,6,85.5,101.0,-2.404
+Benromach,19,88.0,100.0,0.237
+Bladnoch,12,87.0,87.5,-1.38
+Blair Athol,9,85.0,125.0,-2.67
+Bowmore,51,89.0,124.0,0.699
+Bruichladdich,49,89.0,100.0,0.81
+Bunnahabhain,32,88.0,113.0,-0.265
+Caol Ila,46,88.0,106.5,-0.366
+Cardhu,7,87.0,111.0,-1.408
+Clynelish,27,87.0,105.0,-2.041
+Cragganmore,14,89.5,130.0,0.994
+Craigellachie,8,89.0,150.0,-0.262
+Dailuaine,6,87.0,132.5,-1.424
+Dalmore,42,90.0,275.0,-0.177
+Dalwhinnie,11,87.0,85.0,-1.699
+Deanston,5,88.0,133.0,-0.43
+Dufftown,2,89.0,13022.0,-1.866
+Edradour,11,86.0,80.0,-1.727
+Fettercairn,5,88.0,59.0,-0.013
+Glen Deveron (Macduff),6,86.5,100.5,-1.357
+Glen Elgin,6,87.5,150.0,-0.4
+Glen Garioch,28,87.0,112.5,-1.659
+Glen Grant,24,87.0,153.0,-1.242
+Glen Keith,1,85.0,300.0,-4.126
+Glen Moray,19,88.0,55.0,0.754
+Glen Ord,5,88.0,110.0,-0.331
+Glen Scotia,24,87.0,104.0,-1.227
+Glen Spey,1,87.0,210.0,-1.793
+Glenallachie,8,88.0,87.0,-0.334
+Glendronach,31,90.0,110.0,1.691
+Glendullan,5,86.0,70.0,-2.101
+Glenfarclas,30,90.0,505.0,0.057
+Glenfiddich,21,87.0,111.0,-0.655
+Glengoyne,19,88.0,80.0,-0.703
+Glenkinchie,6,85.5,81.0,-3.263
+Glenlivet,45,90.0,150.0,0.432
+Glenmorangie,44,90.0,99.0,1.013
+Glenrothes,48,88.0,107.0,-0.246
+Glenturret,12,87.0,147.5,-1.45
+Highland Park,64,88.0,188.5,-0.362
+Inchgower,3,86.0,140.0,-1.768
+Isle of Arran,31,87.0,80.0,-0.713
+Isle of Jura,17,88.0,111.0,-0.708
+Lagavulin,31,90.0,135.0,1.168
+Laphroaig,41,90.0,90.0,1.959
+Linkwood,10,89.5,136.5,1.364
+Loch Lomond,4,89.0,84.5,1.183
+Longmorn,13,87.0,140.0,-1.381
+Macallan,57,90.0,151.0,0.515
+Mannochmore,1,87.0,400.0,-2.394
+Miltonduff,5,89.0,127.0,0.376
+Mortlach,27,90.0,157.0,1.013
+Oban,10,88.5,95.0,-0.68
+Old Pulteney,25,88.0,85.0,-0.593
+Royal Brackla,7,87.0,100.0,-1.832
+Royal Lochnagar,4,87.0,167.5,-1.246
+Scapa,6,87.0,73.5,-0.747
+Speyburn,5,88.0,65.0,-0.126
+Springbank,38,88.0,114.0,-0.046
+Strathisla,11,90.0,200.0,1.461
+Strathmill,1,84.0,475.0,-5.554
+Talisker,28,89.5,118.0,0.969
+Tamdhu,8,90.0,90.0,1.894
+Tamnavulin,3,87.0,50.0,-1.454
+Teaninich,3,85.0,310.0,-4.116
+Tobermory,10,87.5,89.0,-0.343
+Tomatin,28,86.5,138.5,-2.126
+Tomintoul,21,89.0,150.0,0.206
+Tormore,5,87.0,165.0,-1.695
+Tullibardine,13,85.0,80.0,-2.992
+anCnoc (Knockdhu),10,89.5,87.0,1.053

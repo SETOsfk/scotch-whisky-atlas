@@ -1,0 +1,20 @@
+id,name_tr,name_en,origin_tr,origin_en,kind,is_turkish,note_tr,note_en,source_url
+kars_gravyeri,Kars gravyeri,Kars gruyère,Kars,"Kars, Türkiye",hard_aged,1,"Gravyer tipi, sert ve olgunlaştırılmış peynir","Gruyère-type hard, aged cheese",https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/karsin-gravyeri-divlenin-obrugu-kirklarelinin-eski-kasari-41907224
+eski_kasar,Eski kaşar (Malkara / Kırklareli),Aged kashkaval (Thrace),Trakya,"Thrace, Türkiye",hard_aged,1,"Coğrafi işaretli, olgunlaştırılmış kaşar",Geographically indicated aged kashkaval,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+deri_tulum,Antalya deri tulum,Antalya skin-aged tulum,Antalya,"Antalya, Türkiye",hard_aged,1,Deride olgunlaşır; zamanla parmesan benzeri karakter kazanır,Aged in skin; develops a Parmesan-like character,https://www.hurriyet.com.tr/kelebek/lezzetli-hayat/karsin-gravyeri-divlenin-obrugu-kirklarelinin-eski-kasari-41907224
+kars_kasari,Kars kaşarı,Kars kashkaval,Kars,"Kars, Türkiye",semi_hard,1,Coğrafi işaretli kaşar (makarna filata tipi),Geographically indicated pasta-filata kashkaval,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+divle_obruk,Divle obruk tulumu,Divle cave-aged tulum,Karaman,"Karaman, Türkiye",blue,1,Obrukta (mağarada) küflenerek olgunlaşır,Ripened with mould in a cave (obruk),https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+erzurum_kuflu_civil,Erzurum küflü civil,Erzurum mouldy civil,Erzurum,"Erzurum, Türkiye",blue,1,Coğrafi işaretli küflü peynir,Geographically indicated mould-ripened cheese,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+antakya_kuflu_surk,Antakya küflü sürk,Antakya mouldy sürk,Hatay,"Hatay, Türkiye",blue,1,Coğrafi işaretli küflü sürk,Geographically indicated mould-ripened sürk,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+ezine,Ezine peyniri,Ezine white cheese,Çanakkale,"Çanakkale, Türkiye",brined_white,1,Coğrafi işaretli salamura beyaz peynir,Geographically indicated brined white cheese,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+van_otlu,Van otlu peyniri,Van herbed cheese,Van,"Van, Türkiye",brined_white,1,"Coğrafi işaretli, otlu salamura peynir",Geographically indicated herbed brined cheese,https://dergipark.org.tr/tr/pub/aydingas/issue/52081/680110
+keci_taze,Taze keçi peyniri,Fresh goat cheese,—,—,fresh_goat,1,"Taze, asidik ve hafif","Fresh, tangy and light",https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
+comte,Comté,Comté,Fransa,France,hard_aged,0,"Sert inek peyniri; genci meyvemsi, olgunu fındıksı","Hard cow's-milk cheese; fruity young, nutty aged",https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
+parmigiano,Parmigiano Reggiano,Parmigiano Reggiano,İtalya,Italy,hard_aged,0,"Uzun olgunlaşan, kristalli sert peynir","Long-aged, crystalline hard cheese",https://www.masterofmalt.com/blog/post/say-cheese-with-whisky/
+cheddar,Olgun cheddar,Aged cheddar,İngiltere,England,hard_aged,0,"Keskin, olgun sert peynir","Sharp, mature hard cheese",https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
+gouda,Olgun gouda,Aged gouda,Hollanda,Netherlands,semi_hard,0,"Fındıksı, karamelimsi yarı sert peynir","Nutty, caramel-like semi-firm cheese",https://whiskyadvocate.com/how-to-pair-whisky-and-cheese
+roquefort,Roquefort,Roquefort,Fransa,France,blue,0,"Koyun sütünden, tuzlu ve keskin küflü peynir","Salty, pungent sheep's-milk blue",https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
+gorgonzola,Gorgonzola,Gorgonzola,İtalya,Italy,blue,0,Kremamsı küflü peynir,Creamy blue cheese,https://degustasyon.net/sevilen-late-harvest-muscat-2019-izmir/
+stilton,Stilton,Stilton,İngiltere,England,blue,0,"Yoğun, keskin küflü peynir","Intense, tangy blue cheese",https://whiskyadvocate.com/how-to-pair-whisky-and-cheese
+brie,Brie,Brie,Fransa,France,bloomy,0,"Kremamsı, beyaz küf kabuklu","Creamy, bloomy-rind cheese",https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
+chevre,Chèvre (keçi peyniri),Chèvre (goat cheese),Fransa,France,fresh_goat,0,Taze keçi peyniri,Fresh goat's-milk cheese,https://www.bordeaux.com/en/mag/blog/cheese-bordeaux-wine-pairings/
