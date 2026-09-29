@@ -1,0 +1,80 @@
+side_id,product,grams,price_tl,shop,date
+kars_gravyeri,Bergen Kars Gravyer Peyniri Kg,1000,1690.00,Migros Sanal Market,2026-09-28
+eski_kasar,Altınkılıç Gurme Eski Kaşar 250 G,250,279.95,Migros Sanal Market,2026-09-28
+eski_kasar,Migros Eski Kaşar Peyniri 350G,350,259.00,Migros Sanal Market,2026-09-28
+eski_kasar,Hasmandıra Eski Kaşar Kg,1000,1105.00,Migros Sanal Market,2026-09-28
+eski_kasar,Gürata Eski Kaşar 400 G,400,334.90,Migros Sanal Market,2026-09-28
+eski_kasar,Altınkılıç Trakya Lüks Eski Kaşar Kg,1000,1495.00,Migros Sanal Market,2026-09-28
+eski_kasar,Bergen Anadolu Eski Kaşar Peyniri Kg,1000,799.00,Migros Sanal Market,2026-09-28
+eski_kasar,Ariste Dilimli Trakya Eski Kaşar 200 G,200,499.90,Migros Sanal Market,2026-09-28
+eski_kasar,Anadolumdan Trakya Eski Kaşar Peyniri 200 G,200,258.90,Migros Sanal Market,2026-09-28
+eski_kasar,Anadolumdan Malkara Eski Kaşar Peyniri 200 G,200,342.95,Migros Sanal Market,2026-09-28
+eski_kasar,Doğruluk Olgunlaştırılmış Tam Yağlı Eski Kaşar Peyniri Kg,1000,1685.00,Migros Sanal Market,2026-09-28
+kars_kasari,Ariste Kars Eski Kaşar Peyniri 250 G,250,369.90,Migros Sanal Market,2026-09-28
+kars_kasari,Ariste Tam Yağlı Olgunlaştırılmış Kars Eski Kaşar Peyniri 200 G,200,349.90,Migros Sanal Market,2026-09-28
+ezine,Bergaz Ezine Peyniri Kg,1000,991.90,Migros Sanal Market,2026-09-28
+ezine,Tahsildaroğlu Gurme Ezine Peyniri 450 G,450,582.50,Migros Sanal Market,2026-09-28
+ezine,Tahsildaroğlu Ezine Peyniri 500 G,500,549.90,Migros Sanal Market,2026-09-28
+ezine,Doğruluk Ezine Peyniri 600 G,600,665.00,Migros Sanal Market,2026-09-28
+ezine,Tahsildaroğlu Ezine Peyniri 350 G,350,463.90,Migros Sanal Market,2026-09-28
+ezine,Tahsildaroğlu Ezine Peyniri 450 G,450,549.90,Migros Sanal Market,2026-09-28
+ezine,Doğruluk Ezine Olgunlaştırılmış Tam Yağlı Beyaz Peynir 525G,525,665.00,Migros Sanal Market,2026-09-28
+ezine,H.Ö.444 Olgunlaştırılmış Tam Yağlı Ezine Beyaz Peynir 350 G,350,384.00,Migros Sanal Market,2026-09-28
+keci_taze,Baltalı %100 Keçi Peyniri 350 G,350,642.90,Migros Sanal Market,2026-09-28
+keci_taze,Trakya Çiftliği Keçi Peyniri 1000 G,1000,925.00,Migros Sanal Market,2026-09-28
+keci_taze,Madalı Keçi Kese Peyniri 250 G,250,697.50,Migros Sanal Market,2026-09-28
+keci_taze,Madalı Keçi Sade Çerkes Peyniri 250 G,250,634.90,Migros Sanal Market,2026-09-28
+mavi_damarli,Trakya Çiftliği Mavi Damarlı Yarım Yağlı Rokfor Peyniri 225 G,225,395.00,Migros Sanal Market,2026-09-28
+mavi_damarli,Trakya Çiftliği Mavi Damarlı Yarım Yağlı Rokfor Peyniri 100 G,100,219.90,Migros Sanal Market,2026-09-28
+gorgonzola,Ballarini Gorgonzola Peyniri 100 G,100,256.90,Migros Sanal Market,2026-09-28
+brie,Kaserei Champignon Brie Petit Peyniri 125 G,125,383.95,Migros Sanal Market,2026-09-28
+brie,Casari Brie Peyniri 125 G,125,349.95,Migros Sanal Market,2026-09-28
+gouda,President Gouda Peyniri 220 G,220,249.90,Migros Sanal Market,2026-09-28
+gouda,Lente Gouda Sade 200 G,200,376.95,Migros Sanal Market,2026-09-28
+gouda,Migros Ekstra Gouda Olgunlaştırılmış Tam Yağlı Peynir 200 G,200,289.90,Migros Sanal Market,2026-09-28
+gouda,Frico Tam Yağlı Taze Sade Gouda Peyniri 150 G,150,389.90,Migros Sanal Market,2026-09-28
+gouda,Trakya Çiftliği Sade Gouda Yarım Yağlı Taze Peynir Kg,1000,1100.00,Migros Sanal Market,2026-09-28
+cheddar,Kerrygold Tam Yağlı Olgunlaştırılmış Cheddar 200 G,200,379.50,Migros Sanal Market,2026-09-28
+cheddar,Casari Cheddar Peyniri 200G,200,259.95,Migros Sanal Market,2026-09-28
+cheddar,President Cheddar Peyniri 220 G,220,249.90,Migros Sanal Market,2026-09-28
+cheddar,President Red Cheddar Peyniri 220 G,220,249.90,Migros Sanal Market,2026-09-28
+parmigiano,Cibus Parmigiano Reggiano Parmesan 125 G,125,259.90,Migros Sanal Market,2026-09-28
+bitter_cikolata,Eti Karam %70 Kakaolu Bitter Çikolata 60 G,60,66.95,Migros Sanal Market,2026-09-28
+bitter_cikolata,Lindt Excellence %70 Kakao Çikolata 100 G,100,539.95,Migros Sanal Market,2026-09-28
+sutlu_cikolata,Migros Sütlü Tablet Çikolata 60 G,60,38.50,Migros Sanal Market,2026-09-28
+sutlu_cikolata,Ülker Tablet Sütlü Çikolata 70 G,70,92.50,Migros Sanal Market,2026-09-28
+sutlu_cikolata,Eti Mini Tablet Bol Sütlü Çikolata 32 G,32,42.50,Migros Sanal Market,2026-09-28
+kuru_incir,Adalılar Tanem Kuru İncir 130 G,130,123.90,Migros Sanal Market,2026-09-28
+kuru_incir,Perfect Delights Soft Kuru İncir 150 G,150,86.95,Migros Sanal Market,2026-09-28
+kuru_incir,Dovido Kuru İncir 150 G,150,124.95,Migros Sanal Market,2026-09-28
+kuru_incir,Otto Dried Fruits Kuru İncir Büyük 150G,150,164.95,Migros Sanal Market,2026-09-28
+kuru_incir,Gülmaş Kesme Kuru İncir 250 G,250,109.90,Migros Sanal Market,2026-09-28
+kuru_incir,Master Farm Kuru İncir 150 G,150,164.95,Migros Sanal Market,2026-09-28
+kuru_incir,Aydın İncir Kuru Kg,1000,899.00,Migros Sanal Market,2026-09-28
+hurma,Datella Medjoul Hurma Jumbo 500 G,500,349.95,Migros Sanal Market,2026-09-28
+hurma,Hurma Medjoul Kg,1000,664.95,Migros Sanal Market,2026-09-28
+hurma,Tadım Hurma 140 G,140,125.00,Migros Sanal Market,2026-09-28
+hurma,Sugai Hurma Kg,1000,399.90,Migros Sanal Market,2026-09-28
+hurma,Hurma Medjoul (Jumbo) Kg,1000,889.95,Migros Sanal Market,2026-09-28
+hurma,Tunus Hurması Kg,1000,199.95,Migros Sanal Market,2026-09-28
+hurma,Medine Hurması Kg,1000,1049.95,Migros Sanal Market,2026-09-28
+hurma,Komşu Medium Medine Hurması 300 G,300,239.95,Migros Sanal Market,2026-09-28
+kuru_uzum,Tadım Sultaniye Kuru Üzüm 140 G,140,46.00,Migros Sanal Market,2026-09-28
+badem,Yerli Kavrulmuş Badem Kg,1000,1099.00,Migros Sanal Market,2026-09-28
+badem,Migros Kavrulmuş Badem İçi 150 G,150,109.90,Migros Sanal Market,2026-09-28
+badem,Datçam Çifte Kavrulmuş Badem 125 G,125,179.90,Migros Sanal Market,2026-09-28
+badem,Kavrulmuş Badem İçi 300 G,300,299.90,Migros Sanal Market,2026-09-28
+badem,Datçam Kabuksuz Kavrulmuş Badem 125 G,125,199.90,Migros Sanal Market,2026-09-28
+badem,Datçam Kavrulmuş Ak Badem 125 G,125,179.90,Migros Sanal Market,2026-09-28
+findik,Migros Kavrulmuş Fındık İçi 150G,150,185.00,Migros Sanal Market,2026-09-28
+findik,Tadım Kavrulmuş Fındık İçi 180G,180,220.00,Migros Sanal Market,2026-09-28
+findik,Adalılar Tanem Fındık İçi 130 G,130,248.90,Migros Sanal Market,2026-09-28
+antep_fistigi,By İzzet Antep Fıstığı 200 G,200,419.90,Migros Sanal Market,2026-09-28
+antep_fistigi,Migros Antep Fıstığı Jumbo 200 G,200,270.00,Migros Sanal Market,2026-09-28
+antep_fistigi,Migros Kavrulmuş Antep Fıstığı 150 G,150,199.90,Migros Sanal Market,2026-09-28
+antep_fistigi,Adalılar Tanem Antep Fıstığı 130 G,130,289.90,Migros Sanal Market,2026-09-28
+fume_somon,Migros Somon Füme 100 G,100,265.90,Migros Sanal Market,2026-09-28
+fume_somon,Admirals Norveç Somon Füme 100 G,100,340.90,Migros Sanal Market,2026-09-28
+fume_somon,Migros Türk Somonu Füme 100 G,100,269.90,Migros Sanal Market,2026-09-28
+fume_somon,Bando Norveç Somon Füme Lokum 250 G,250,799.90,Migros Sanal Market,2026-09-28
+fume_somon,Dardanel Soğutulmuş Balık Somon Füme 80 G,80,289.90,Migros Sanal Market,2026-09-28

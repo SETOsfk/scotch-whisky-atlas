@@ -1,0 +1,928 @@
+{
+ "A_read_before_dictionary": {
+  "reviews": 40,
+  "hand_phrases": 588,
+  "recall": 0.9864,
+  "precision": 0.932,
+  "per_review_rate_mean": 0.9875,
+  "per_review_rate_min": 0.8571,
+  "reviews_detail": [
+   {
+    "id": 59,
+    "hand": 18,
+    "caught": 18,
+    "attributes": 19,
+    "on_hand_phrase": 18,
+    "missed": [],
+    "extra": [
+     "MALT"
+    ]
+   },
+   {
+    "id": 177,
+    "hand": 18,
+    "caught": 18,
+    "attributes": 17,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 220,
+    "hand": 25,
+    "caught": 25,
+    "attributes": 28,
+    "on_hand_phrase": 26,
+    "missed": [],
+    "extra": [
+     "COATING",
+     "SUBTLE"
+    ]
+   },
+   {
+    "id": 264,
+    "hand": 15,
+    "caught": 15,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 329,
+    "hand": 16,
+    "caught": 16,
+    "attributes": 14,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": [
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 353,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 14,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": [
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 370,
+    "hand": 19,
+    "caught": 19,
+    "attributes": 17,
+    "on_hand_phrase": 16,
+    "missed": [],
+    "extra": [
+     "ELEGANT"
+    ]
+   },
+   {
+    "id": 395,
+    "hand": 7,
+    "caught": 7,
+    "attributes": 9,
+    "on_hand_phrase": 9,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 396,
+    "hand": 21,
+    "caught": 21,
+    "attributes": 21,
+    "on_hand_phrase": 21,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 509,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 18,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": [
+     "DELICIOUS"
+    ]
+   },
+   {
+    "id": 624,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 631,
+    "hand": 11,
+    "caught": 11,
+    "attributes": 11,
+    "on_hand_phrase": 11,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 665,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 18,
+    "on_hand_phrase": 16,
+    "missed": [],
+    "extra": [
+     "ELEGANT",
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 760,
+    "hand": 22,
+    "caught": 21,
+    "attributes": 22,
+    "on_hand_phrase": 20,
+    "missed": [
+     "expansive"
+    ],
+    "extra": [
+     "ELEGANT",
+     "DELICIOUS"
+    ]
+   },
+   {
+    "id": 787,
+    "hand": 9,
+    "caught": 9,
+    "attributes": 10,
+    "on_hand_phrase": 10,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 809,
+    "hand": 18,
+    "caught": 18,
+    "attributes": 19,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": [
+     "SUBTLE",
+     "EXCELLENT"
+    ]
+   },
+   {
+    "id": 821,
+    "hand": 16,
+    "caught": 16,
+    "attributes": 17,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1005,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 14,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": [
+     "DELICIOUS"
+    ]
+   },
+   {
+    "id": 1032,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 13,
+    "on_hand_phrase": 11,
+    "missed": [],
+    "extra": [
+     "MATURE",
+     "DELICATE"
+    ]
+   },
+   {
+    "id": 1035,
+    "hand": 9,
+    "caught": 9,
+    "attributes": 11,
+    "on_hand_phrase": 9,
+    "missed": [],
+    "extra": [
+     "COMPLEX",
+     "DECENT"
+    ]
+   },
+   {
+    "id": 1153,
+    "hand": 16,
+    "caught": 16,
+    "attributes": 17,
+    "on_hand_phrase": 16,
+    "missed": [],
+    "extra": [
+     "SOFT"
+    ]
+   },
+   {
+    "id": 1350,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 15,
+    "on_hand_phrase": 15,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1415,
+    "hand": 13,
+    "caught": 12,
+    "attributes": 17,
+    "on_hand_phrase": 14,
+    "missed": [
+     "heady"
+    ],
+    "extra": [
+     "SOFT",
+     "HEAT",
+     "EXCELLENT"
+    ]
+   },
+   {
+    "id": 1420,
+    "hand": 22,
+    "caught": 20,
+    "attributes": 19,
+    "on_hand_phrase": 18,
+    "missed": [
+     "pulpy",
+     "juicy"
+    ],
+    "extra": [
+     "DRY"
+    ]
+   },
+   {
+    "id": 1426,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 17,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": [
+     "YOUNG",
+     "DELICIOUS",
+     "BALANCED",
+     "COMPLEX"
+    ]
+   },
+   {
+    "id": 1443,
+    "hand": 14,
+    "caught": 12,
+    "attributes": 15,
+    "on_hand_phrase": 11,
+    "missed": [
+     "hickory",
+     "juicy"
+    ],
+    "extra": [
+     "DELICATE",
+     "LIVELY",
+     "BALANCED",
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 1453,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 15,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": [
+     "YOUNG"
+    ]
+   },
+   {
+    "id": 1470,
+    "hand": 16,
+    "caught": 16,
+    "attributes": 15,
+    "on_hand_phrase": 15,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1564,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1603,
+    "hand": 9,
+    "caught": 9,
+    "attributes": 9,
+    "on_hand_phrase": 8,
+    "missed": [],
+    "extra": [
+     "DECENT"
+    ]
+   },
+   {
+    "id": 1624,
+    "hand": 11,
+    "caught": 11,
+    "attributes": 13,
+    "on_hand_phrase": 11,
+    "missed": [],
+    "extra": [
+     "OAK",
+     "BURNT"
+    ]
+   },
+   {
+    "id": 1683,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1755,
+    "hand": 12,
+    "caught": 11,
+    "attributes": 11,
+    "on_hand_phrase": 10,
+    "missed": [
+     "pretty"
+    ],
+    "extra": [
+     "DELICIOUS"
+    ]
+   },
+   {
+    "id": 1844,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1850,
+    "hand": 15,
+    "caught": 15,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1881,
+    "hand": 20,
+    "caught": 20,
+    "attributes": 21,
+    "on_hand_phrase": 21,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1910,
+    "hand": 15,
+    "caught": 15,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 2011,
+    "hand": 16,
+    "caught": 15,
+    "attributes": 16,
+    "on_hand_phrase": 14,
+    "missed": [
+     "lemongrass"
+    ],
+    "extra": [
+     "METALLIC",
+     "DELICATE"
+    ]
+   },
+   {
+    "id": 2053,
+    "hand": 8,
+    "caught": 8,
+    "attributes": 10,
+    "on_hand_phrase": 8,
+    "missed": [],
+    "extra": [
+     "SUBTLE",
+     "PUDDING"
+    ]
+   },
+   {
+    "id": 2156,
+    "hand": 7,
+    "caught": 7,
+    "attributes": 7,
+    "on_hand_phrase": 6,
+    "missed": [],
+    "extra": [
+     "DECENT"
+    ]
+   }
+  ]
+ },
+ "B_after_freeze": {
+  "reviews": 40,
+  "hand_phrases": 587,
+  "recall": 0.9472,
+  "precision": 0.9445,
+  "per_review_rate_mean": 0.946,
+  "per_review_rate_min": 0.75,
+  "reviews_detail": [
+   {
+    "id": 76,
+    "hand": 12,
+    "caught": 11,
+    "attributes": 14,
+    "on_hand_phrase": 13,
+    "missed": [
+     "jaw-dropping"
+    ],
+    "extra": [
+     "GRAIN"
+    ]
+   },
+   {
+    "id": 126,
+    "hand": 11,
+    "caught": 10,
+    "attributes": 12,
+    "on_hand_phrase": 9,
+    "missed": [
+     "best"
+    ],
+    "extra": [
+     "DECENT",
+     "SUGAR",
+     "CAKE"
+    ]
+   },
+   {
+    "id": 182,
+    "hand": 18,
+    "caught": 17,
+    "attributes": 17,
+    "on_hand_phrase": 17,
+    "missed": [
+     "best"
+    ],
+    "extra": []
+   },
+   {
+    "id": 187,
+    "hand": 8,
+    "caught": 8,
+    "attributes": 10,
+    "on_hand_phrase": 8,
+    "missed": [],
+    "extra": [
+     "LUSH",
+     "SHERRY"
+    ]
+   },
+   {
+    "id": 225,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 18,
+    "on_hand_phrase": 16,
+    "missed": [],
+    "extra": [
+     "INTERESTING",
+     "SHORT FINISH"
+    ]
+   },
+   {
+    "id": 258,
+    "hand": 19,
+    "caught": 18,
+    "attributes": 22,
+    "on_hand_phrase": 21,
+    "missed": [
+     "leafy peat smoke"
+    ],
+    "extra": [
+     "INTERESTING"
+    ]
+   },
+   {
+    "id": 367,
+    "hand": 22,
+    "caught": 20,
+    "attributes": 20,
+    "on_hand_phrase": 20,
+    "missed": [
+     "triumphant",
+     "longest finishes"
+    ],
+    "extra": []
+   },
+   {
+    "id": 390,
+    "hand": 19,
+    "caught": 18,
+    "attributes": 20,
+    "on_hand_phrase": 18,
+    "missed": [
+     "fire"
+    ],
+    "extra": [
+     "DELICATE",
+     "LIVELY"
+    ]
+   },
+   {
+    "id": 581,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 21,
+    "on_hand_phrase": 21,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 619,
+    "hand": 13,
+    "caught": 11,
+    "attributes": 16,
+    "on_hand_phrase": 14,
+    "missed": [
+     "calming",
+     "more-ish"
+    ],
+    "extra": [
+     "DELICIOUS",
+     "OAK"
+    ]
+   },
+   {
+    "id": 642,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 17,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 794,
+    "hand": 8,
+    "caught": 6,
+    "attributes": 9,
+    "on_hand_phrase": 6,
+    "missed": [
+     "tamarind paste",
+     "black forest gateau"
+    ],
+    "extra": [
+     "INTENSE",
+     "LONG FINISH",
+     "EXCELLENT"
+    ]
+   },
+   {
+    "id": 819,
+    "hand": 20,
+    "caught": 19,
+    "attributes": 20,
+    "on_hand_phrase": 18,
+    "missed": [
+     "unhurried"
+    ],
+    "extra": [
+     "MALT",
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 1023,
+    "hand": 8,
+    "caught": 8,
+    "attributes": 10,
+    "on_hand_phrase": 10,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1086,
+    "hand": 20,
+    "caught": 20,
+    "attributes": 21,
+    "on_hand_phrase": 20,
+    "missed": [],
+    "extra": [
+     "SHORT FINISH"
+    ]
+   },
+   {
+    "id": 1115,
+    "hand": 13,
+    "caught": 12,
+    "attributes": 16,
+    "on_hand_phrase": 13,
+    "missed": [
+     "extreme"
+    ],
+    "extra": [
+     "CHESTNUT",
+     "DECENT",
+     "ELEGANT"
+    ]
+   },
+   {
+    "id": 1132,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 18,
+    "on_hand_phrase": 18,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1154,
+    "hand": 20,
+    "caught": 19,
+    "attributes": 21,
+    "on_hand_phrase": 20,
+    "missed": [
+     "juiciness"
+    ],
+    "extra": [
+     "SHORT FINISH"
+    ]
+   },
+   {
+    "id": 1163,
+    "hand": 15,
+    "caught": 14,
+    "attributes": 15,
+    "on_hand_phrase": 15,
+    "missed": [
+     "counterbalance"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1183,
+    "hand": 13,
+    "caught": 12,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [
+     "super ripe"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1261,
+    "hand": 16,
+    "caught": 14,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [
+     "dried",
+     "ripe"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1272,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 14,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1289,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1398,
+    "hand": 18,
+    "caught": 15,
+    "attributes": 16,
+    "on_hand_phrase": 16,
+    "missed": [
+     "admirable",
+     "tarte tartin",
+     "molten"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1427,
+    "hand": 14,
+    "caught": 14,
+    "attributes": 15,
+    "on_hand_phrase": 15,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1473,
+    "hand": 15,
+    "caught": 14,
+    "attributes": 16,
+    "on_hand_phrase": 16,
+    "missed": [
+     "mouthfeel"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1480,
+    "hand": 15,
+    "caught": 15,
+    "attributes": 17,
+    "on_hand_phrase": 16,
+    "missed": [],
+    "extra": [
+     "SHERRY"
+    ]
+   },
+   {
+    "id": 1518,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 12,
+    "on_hand_phrase": 12,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1543,
+    "hand": 17,
+    "caught": 17,
+    "attributes": 18,
+    "on_hand_phrase": 17,
+    "missed": [],
+    "extra": [
+     "BOURBON"
+    ]
+   },
+   {
+    "id": 1722,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1787,
+    "hand": 11,
+    "caught": 11,
+    "attributes": 15,
+    "on_hand_phrase": 14,
+    "missed": [],
+    "extra": [
+     "DELICIOUS"
+    ]
+   },
+   {
+    "id": 1848,
+    "hand": 15,
+    "caught": 15,
+    "attributes": 15,
+    "on_hand_phrase": 15,
+    "missed": [],
+    "extra": []
+   },
+   {
+    "id": 1877,
+    "hand": 14,
+    "caught": 11,
+    "attributes": 10,
+    "on_hand_phrase": 10,
+    "missed": [
+     "lemongrass",
+     "galangal",
+     "mineraly"
+    ],
+    "extra": []
+   },
+   {
+    "id": 1912,
+    "hand": 14,
+    "caught": 12,
+    "attributes": 15,
+    "on_hand_phrase": 14,
+    "missed": [
+     "burning",
+     "stubble field"
+    ],
+    "extra": [
+     "MALT"
+    ]
+   },
+   {
+    "id": 1941,
+    "hand": 13,
+    "caught": 13,
+    "attributes": 14,
+    "on_hand_phrase": 13,
+    "missed": [],
+    "extra": [
+     "OLOROSO"
+    ]
+   },
+   {
+    "id": 2074,
+    "hand": 16,
+    "caught": 15,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [
+     "unadventurous"
+    ],
+    "extra": []
+   },
+   {
+    "id": 2122,
+    "hand": 17,
+    "caught": 16,
+    "attributes": 13,
+    "on_hand_phrase": 13,
+    "missed": [
+     "mild"
+    ],
+    "extra": []
+   },
+   {
+    "id": 2180,
+    "hand": 9,
+    "caught": 8,
+    "attributes": 10,
+    "on_hand_phrase": 8,
+    "missed": [
+     "distracted"
+    ],
+    "extra": [
+     "PEAT",
+     "BARLEY"
+    ]
+   },
+   {
+    "id": 2202,
+    "hand": 11,
+    "caught": 11,
+    "attributes": 12,
+    "on_hand_phrase": 11,
+    "missed": [],
+    "extra": [
+     "CLASSIC"
+    ]
+   },
+   {
+    "id": 2227,
+    "hand": 16,
+    "caught": 15,
+    "attributes": 17,
+    "on_hand_phrase": 14,
+    "missed": [
+     "peters out"
+    ],
+    "extra": [
+     "SEA AIR",
+     "LAYERED",
+     "CITRUS PEEL"
+    ]
+   }
+  ]
+ }
+}

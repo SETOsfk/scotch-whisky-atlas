@@ -1,0 +1,271 @@
+category,subcategory,normalized,specific
+PUNGENT,PUNGENT,ALCOHOL,alcohol|alcoholic|spirity|ethanol|alcohol heat|hot alcohol|high alcohol|higher alcohol|solvent heat
+PUNGENT,PUNGENT,HARSH,harsh|harshness|raw|rawness|aggressive|rough|roughness|sharp|sharpness|abrasive|coarse
+PUNGENT,PUNGENT,PRICKLE,prickle|prickly|prickling|tingle|tingling|tingly|zing|zingy|fizzy|fizz|effervescent|sparkling|nip|nippy|tickle
+PHENOLIC,PEATY,PEAT,peat|peaty|peated|peatiness|peatier|peat reek|peat bog|peating|peat smoke|peat fire|peat embers|peat kiln|phenolic|phenols|phenol|peat influence
+PHENOLIC,PEATY,KILN,kiln|damp kiln|kiln smoke|kilned|maltings kiln|floor maltings
+PHENOLIC,SMOKY,SMOKE,smoke|smoky|smokey|smokiness|smoked|smokier|smokiest|woodsmoke|wood smoke|smoking|puff of smoke|wisp of smoke|whiff of smoke|smoke wisps
+PHENOLIC,SMOKY,BONFIRE,bonfire|campfire|wood fire|log fire|fireplace|fireside|hearth|embers|ember|burning embers|smouldering|smoldering|chimney|bonfire smoke|garden bonfire
+PHENOLIC,SMOKY,BARBECUE,barbecue|barbecued|bbq|grilled meat|charred meat|brisket|grill
+PHENOLIC,SMOKY,SMOKED FISH,smoked fish|kipper|kippers|kippery|smoked haddock|smoked salmon|smoked mackerel|smoked eel|finnan haddie
+PHENOLIC,SMOKY,SMOKED MEAT,smoked bacon|smoked meat|smoked ham|bacon|bacon fat|ham|cured meat|salami|chorizo|charcuterie|jerky|parma ham|prosciutto|pastrami
+PHENOLIC,BURNT,TAR,tar|tarry|coal tar|tarry rope|tarred rope|pitch|asphalt|bitumen|creosote|tarmac|road tar|pine tar
+PHENOLIC,BURNT,ASH,ash|ashy|ashes|cigar ash|coal ash|ashtray|soot|sooty|cold ashes
+PHENOLIC,BURNT,COAL,coal|charcoal|coal smoke|coal dust|coal fire|anthracite|lump coal|coke
+PHENOLIC,BURNT,BURNT,burnt|burned|scorched|singed|charred|char|charring|blackened
+PHENOLIC,MEDICINAL,IODINE,iodine|iodized|iodised
+PHENOLIC,MEDICINAL,MEDICINAL,medicinal|medicine|medical|antiseptic|tcp|germolene|carbolic|carbolic soap|disinfectant|hospital|surgical|band aid|band aids|bandage|bandages|crepe bandage|elastoplast|sticking plaster|ointment|liniment|embrocation|lint|cough syrup|cough drops|cough sweets|throat lozenges|lozenges|wintergreen|hospital corridors|mouthwash|surgical spirit|fabric band aids
+GRAINY,CEREAL,GRAIN,grain|grains|grainy|cereal|cereals|whole grain|corn|maize|wheat|rye|grist|gristy|husk|husky|bran|chaff|popcorn|cornflakes|corn flakes|breakfast cereal|puffed rice
+GRAINY,CEREAL,OATS,oat|oats|oatmeal|oatcake|oatcakes|granola|muesli|quaker oats|flapjack|flapjacks|porridge oats
+GRAINY,CEREAL,BISCUIT,biscuit|biscuits|biscuity|digestive|digestives|digestive biscuit|digestive biscuits|graham cracker|graham crackers|cracker|crackers|rich tea|malted biscuit|wafer|wafers|vanilla wafer
+GRAINY,CEREAL,BREAD,bread|bready|dough|brioche|croissant|crust|bread crust|whole grain bread|sourdough|rye bread|toast bread|malt loaf
+GRAINY,MALT,MALT,malt|malty|maltiness|malted|malted barley|malt extract|ovaltine|horlicks|malted milk|malted milk balls|maltesers
+GRAINY,MALT,BARLEY,barley|ripe barley|sweet barley|barley water|fat barley|barley husk|cooked barley
+GRAINY,MASH,MASH,mash|mashy|mash tun|wort|draff|porridge|cooked grain|wet grain|mash tuns|beery
+GREEN,FRESH,GRASS,grass|grassy|grassiness|cut grass|freshly cut grass|fresh cut grass|mown grass|wet grass|lawn|lawns|meadow|meadows|mown lawn|hay meadow
+GREEN,FRESH,LEAFY,leaf|leaves|leafy|foliage|fern|ferns|young ferns|bracken|green leaves|tomato leaf|tomato plant|hedgerow|hedgerows|nettle|nettles|green bark|twigs|stems|flower stems|undergrowth
+GREEN,FRESH,GREEN,green|greenness|unripe|underripe|green notes|verdant
+GREEN,DRIED,HAY,hay|straw|dried grass|dry grass|dried grasses|dry grasses|hay loft|haystack|cut hay|mown hay|hay bales
+GREEN,DRIED,TEA,tea|teas|green tea|black tea|earl grey|oolong|oolong tea|lapsang souchong|souchong|darjeeling|assam|chamomile|gunpowder tea|rooibos|jasmine tea|tea leaves|tea leaf|herbal tea|tea cake|tea caddy|sweet tea|iced tea
+GREEN,DRIED,MINT,mint|minty|peppermint|spearmint|menthol|mentholated|cool mint|fresh mint|mint humbugs|mints|polo mints|mint leaves
+GREEN,DRIED,EUCALYPTUS,eucalyptus|camphor wood|tea tree
+GREEN,DRIED,HERBAL,herb|herbs|herbal|herbaceous|herby|dried herbs|dried herb|thyme|sage|rosemary|basil|tarragon|dill|oregano|bay leaf|bay leaves|laurel|angelica|bog myrtle|myrtle|cilantro|parsley|lemon balm|lemon verbena|verbena|wormwood|hops|hoppy|gentian
+GREEN,DRIED,JUNIPER,juniper|gin botanicals|botanicals|botanical
+GREEN,DRIED,PINE,pine|pine needles|piney|piny|pine resin|pine sap|evergreen|evergreens|spruce|fir|fir needles|christmas tree|turpentine|pine cones
+FRUITY,SOLVENTY,SOLVENT,nail varnish|nail polish|nail polish remover|varnish|paint thinner|acetone|solvent|solventy|glue|model glue|paint|fusel|fusel oil|pear drops remover
+FRUITY,SOLVENTY,ESTERY,estery|esters|ester|pear drop|pear drops|fruit esters|acid drops
+FRUITY,ORCHARD,APPLE,apple|apples|red apple|eating apple|eating apples|apple peel|apple skin|apple skins|apple juice|apple cider|cider|apple sauce|applesauce|apple blossom honey
+FRUITY,ORCHARD,GREEN APPLE,green apple|green apples|granny smith|granny smith apples|sour apple|bramley apple|bramley apples|bramley|cooking apple|cooking apples|unripe apple
+FRUITY,ORCHARD,BAKED APPLE,baked apple|baked apples|stewed apple|stewed apples|cooked apple|cooked apples|apple pie|apple crumble|toffee apple|toffee apples|caramel apple|caramel apples|candy apple|candy apples|apple strudel|apple tart|tarte tatin|apple turnover
+FRUITY,ORCHARD,PEAR,pear|pears|william pear|williams pear|pear juice|poached pear|poached pears|tinned pear|tinned pears|canned pear|canned pears|conference pear|asian pear|perry
+FRUITY,ORCHARD,PEACH,peach|peaches|peachy|tinned peach|tinned peaches|canned peach|canned peaches|peaches and cream|peaches in cream|peaches in syrup|white peach|nectarine|nectarines|peach nectarine
+FRUITY,ORCHARD,APRICOT,apricot|apricots|apricot jam|fresh apricot
+FRUITY,ORCHARD,PLUM,plum|plums|plummy|victoria plum|victoria plums|damson|damsons|damson jam|greengage|greengages|sloe|sloes|mirabelle|plum sauce|plum jam
+FRUITY,ORCHARD,QUINCE,quince|quinces|membrillo
+FRUITY,TROPICAL,PINEAPPLE,pineapple|pineapples|fresh pineapple|tinned pineapple|canned pineapple|dried pineapple|pineapple chunks
+FRUITY,TROPICAL,MANGO,mango|mangoes|mangos|dried mango
+FRUITY,TROPICAL,BANANA,banana|bananas|banana chips|banana bread|green banana|banana milkshake|banana split|dried banana
+FRUITY,TROPICAL,MELON,melon|melons|honeydew|honeydew melon|cantaloupe|galia|watermelon|white melon
+FRUITY,TROPICAL,PASSION FRUIT,passion fruit|passionfruit|guava|guavas|papaya|papayas|lychee|lychees|kiwi|kiwis|kiwifruit|kiwi fruit|mangosteen|starfruit|persimmon
+FRUITY,TROPICAL,TROPICAL FRUIT,tropical|tropical fruit|tropical fruits|exotic fruit|exotic fruits|dried tropical fruit|dried tropical fruits
+FRUITY,CITRUS,ORANGE,orange|oranges|blood orange|blood oranges|seville orange|seville oranges|jaffa orange|jaffa oranges|jaffa|orange juice|orange oil|orange oils|squeezed orange|freshly squeezed orange|orange segments|orange liqueur
+FRUITY,CITRUS,TANGERINE,tangerine|tangerines|clementine|clementines|mandarin|mandarins|mandarin orange|satsuma|satsumas|kumquat|kumquats|tangerine juice
+FRUITY,CITRUS,ORANGE PEEL,orange peel|orange peels|orange zest|orange rind|candied orange|candied orange peel|dried orange peel|orange pith|pith|dried orange
+FRUITY,CITRUS,MARMALADE,marmalade|marmalades|orange marmalade|thick cut marmalade|thick cut orange marmalade|cut marmalade|tangerine marmalade|lime marmalade
+FRUITY,CITRUS,LEMON,lemon|lemons|lemon juice|lemon peel|lemon zest|lemon curd|lemon oil|preserved lemon|preserved lemons|lemonade|lemon drops|lemon sorbet|lemon rind|lemon pith|squeeze of lemon|meyer lemon
+FRUITY,CITRUS,LIME,lime|limes|lime zest|lime juice|lime cordial|lime peel|lime leaf|kaffir lime
+FRUITY,CITRUS,GRAPEFRUIT,grapefruit|grapefruits|pink grapefruit|grapefruit peel|grapefruit pith
+FRUITY,CITRUS,CITRUS,citrus|citric|citrusy|citrussy|citrus fruit|citrus fruits|bergamot|yuzu|dried citrus|candied citrus
+FRUITY,CITRUS,CITRUS PEEL,citrus peel|citrus peels|citrus zest|zest|peel|peels|candied peel|mixed peel|rind|rinds
+FRUITY,BERRIES,BLACKCURRANT,blackcurrant|blackcurrants|black currant|black currants|cassis|ribena|blackcurrant jam|blackcurrant leaf
+FRUITY,BERRIES,REDCURRANT,redcurrant|redcurrants|red currant|red currants|white currant|white currants
+FRUITY,BERRIES,RASPBERRY,raspberry|raspberries|red raspberry|red raspberries|black raspberry|black raspberries|raspberry jam
+FRUITY,BERRIES,STRAWBERRY,strawberry|strawberries|strawberry jam|strawberry rhubarb|wild strawberry|wild strawberries
+FRUITY,BERRIES,BLACKBERRY,blackberry|blackberries|bramble|brambles|blackberry jam|dewberry|dewberries|boysenberry|mulberry|mulberries
+FRUITY,BERRIES,BLUEBERRY,blueberry|blueberries|bilberry|bilberries
+FRUITY,BERRIES,CRANBERRY,cranberry|cranberries|lingonberry|lingonberries|dried cranberries
+FRUITY,BERRIES,GOOSEBERRY,gooseberry|gooseberries
+FRUITY,BERRIES,CHERRY,cherry|cherries|black cherry|black cherries|dark cherry|dark cherries|red cherry|red cherries|morello|morello cherries|maraschino|maraschino cherry|maraschino cherries|glacé cherry|glacé cherries|glace cherry|glace cherries|candied cherries|candied cherry|cocktail cherry|cocktail cherries|cherry liqueur|kirsch|cherry pits|cherry stones|cherries in syrup|sour cherry|sour cherries
+FRUITY,BERRIES,BERRIES,berry|berries|berried|dark berries|dark berry|summer berries|autumn berries|forest fruits|wild berries|berry fruit|berry fruits|mixed berries|glazed berries|berried fruit|berried fruits|red berry|red berries|red berry fruits
+FRUITY,BERRIES,RED FRUIT,red fruit|red fruits|summer fruit|summer fruits|autumn fruits|autumn fruit|red and black fruits
+FRUITY,BERRIES,POMEGRANATE,pomegranate|pomegranates
+FRUITY,BERRIES,RHUBARB,rhubarb|stewed rhubarb|rhubarb crumble|rhubarb and custard
+FRUITY,BERRIES,GRAPE,grape|grapes|green grapes|white grape|white grapes|grape skin|grape skins|red grapes|muscat grapes
+FRUITY,DRIED FRUIT,RAISIN,raisin|raisins|golden raisin|golden raisins|rum raisin|raisined|burnt raisin|burnt raisins|raisin ice cream
+FRUITY,DRIED FRUIT,SULTANA,sultana|sultanas
+FRUITY,DRIED FRUIT,CURRANT,currant|currants
+FRUITY,DRIED FRUIT,FIG,fig|figs|dried fig|dried figs|figgy|fig rolls|fig roll|fig cake|fig jam|fresh figs|fresh fig|ripe figs|sherry figs
+FRUITY,DRIED FRUIT,PRUNE,prune|prunes|stewed prunes
+FRUITY,DRIED FRUIT,DATE,dates|medjool|medjool dates|date bars|date bar|date nut|dried dates|sticky dates|date and walnut
+FRUITY,DRIED FRUIT,DRIED FRUIT,dried fruit|dried fruits|dried fruit cake|mixed dried fruit|dried apricot|dried apricots|dried peach|dried peaches|dried apple|dried apples|dried peel|candied fruit|candied fruits|glacé fruit|glacé fruits|crystallized fruit|crystallized fruits
+FRUITY,DRIED FRUIT,FRUITCAKE,fruitcake|fruit cake|christmas cake|christmas pudding|plum pudding|dundee cake|rich fruitcake|mince pie|mince pies|mincemeat|stollen|panettone|simnel cake|fruit loaf|black bun|clootie dumpling|figgy pudding
+FRUITY,FRUIT,FRUIT,fruit|fruits|fruity|fruitiness|fruitier|fruitiest|fruit notes|fruit flavors|fruit aromas|fruit salad|tinned fruit|canned fruit|fruit cocktail|fruit syrup|fruit syrups|fruit juice
+FRUITY,FRUIT,ORCHARD FRUIT,orchard fruit|orchard fruits|stone fruit|stone fruits|pit fruit|pit fruits|fallen orchard fruit|fallen fruit|tree fruit|tree fruits|sweet orchard fruits
+FRUITY,FRUIT,DARK FRUIT,dark fruit|dark fruits|black fruit|black fruits|darker fruit|darker fruits|dense fruit|dense fruits|dense dark fruits|dark berry fruits
+FRUITY,FRUIT,STEWED FRUIT,stewed fruit|stewed fruits|cooked fruit|cooked fruits|baked fruit|baked fruits|compote|compotes|fruit compote|poached fruit|jammy|jam|jams|preserves|conserve|fruit preserves|fruit jam|boiled fruit
+FLORAL,NATURAL,FLORAL,floral|florals|florally|flower|flowers|flowery|blossom|blossoms|petal|petals|meadow flowers|cut flowers|dried flowers|spring flowers|garden flowers|wild flowers|wildflowers|fresh flowers|apple blossom|cherry blossom|citrus blossom|flower garden|flowering|sweet pea|sweet peas
+FLORAL,NATURAL,ROSE,rose|roses|rose petal|rose petals|rosewater|rose water|rosehip|rosehips|rose hip|rose hips|turkish rose
+FLORAL,NATURAL,VIOLET,violet|violets|parma violet|parma violets|iris|orris|orris root
+FLORAL,NATURAL,LAVENDER,lavender
+FLORAL,NATURAL,HEATHER,heather|heathery|heather flowers|heather moor|heather bloom
+FLORAL,NATURAL,ORANGE BLOSSOM,orange blossom|orange blossoms|neroli|orange flower water|orange flower
+FLORAL,NATURAL,ELDERFLOWER,elderflower|elderflowers|elder flower|elder flowers|elderflower cordial
+FLORAL,NATURAL,HONEYSUCKLE,honeysuckle|jasmine|lily|lilies|lilac|hawthorn|gorse|buttercup|buttercups|clover|geranium|geraniums|carnation|carnations|freesia|hyacinth|magnolia|primrose|daffodil|peony|wisteria|bluebell|bluebells|meadowsweet|linden|lime blossom
+FLORAL,PERFUMED,PERFUMED,perfume|perfumed|perfumy|perfumes|scented|fragrant|fragrance|aromatic|aromatics|potpourri|pot pourri|scents|cologne|eau de cologne|toilet water
+FLORAL,PERFUMED,INCENSE,incense|joss sticks|frankincense|myrrh|church incense
+FLORAL,HONEY,HONEY,honey|honeyed|honied|heather honey|clover honey|blossom honey|manuka honey|honey drenched|honey laced|honey kissed|honeycomb|mead|acacia honey|orange blossom honey
+FEINTY,FEINTY,FEINTY,feinty|feints|new make|new make spirit|make spirit|sweaty feints
+FEINTY,LEATHER,LEATHER,leather|leathery|old leather|new leather|polished leather|worn leather|saddle leather|burnished leather|soft leather|warm leather|leather armchair|leather armchairs|leather bound books|leather jacket|saddle|saddlery|tack room
+FEINTY,TOBACCO,TOBACCO,tobacco|pipe tobacco|cigar|cigars|cigar box|cigar boxes|cigar smoke|cigarette|cigarettes|cigarette tobacco|rolling tobacco|hand rolling tobacco|tobacco leaf|tobacco leaves|humidor|snuff|blonde tobacco|dried tobacco|sweet tobacco|pipe smoke|burley
+WOODY,NEW WOOD,OAK,oak|oaky|oakiness|oaked|wood|woody|woodiness|wooded|woods|timber|oak notes|oak influence|oak flavors|wood influence
+WOODY,NEW WOOD,CEDAR,cedar|cedarwood|cedar wood|cedar box|cigar box cedar
+WOODY,NEW WOOD,PENCIL SHAVINGS,pencil|pencils|pencil shavings|sharpened pencil|sharpened pencils|pencil lead|pencil box
+WOODY,NEW WOOD,SAWDUST,sawdust|wood shavings|shavings|sawn wood|freshly sawn wood|freshly sawn|sawn timber|sawmill|lumber|lumberyard|carpenter's workshop|wood chips
+WOODY,NEW WOOD,SANDALWOOD,sandalwood|sandalwood incense|exotic wood|exotic woods|rosewood|teak
+WOODY,NEW WOOD,RESIN,resin|resins|resinous|resiny|oak resin|wood resin|pine resin sap
+WOODY,NEW WOOD,SAP,sap|sappy|green wood|wet wood|damp wood|bark|tree bark
+WOODY,NEW WOOD,DRIFTWOOD,driftwood|drift wood|beach wood|old boats|boat sheds
+WOODY,NEW WOOD,POLISH,polish|wood polish|furniture polish|wax polish|beeswax polish|polished oak|polished wood|polished furniture|polished mahogany|french polish|varnished wood|lemon polish
+WOODY,NUTTY,ALMOND,almond|almonds|sugared almond|sugared almonds|almond slice|amaretto|frangipane|noyau|almond paste|bitter almond|bitter almonds|almond cake|almond milk|almond croissant|marcona almonds|almond biscotti
+WOODY,NUTTY,MARZIPAN,marzipan|marzipan fruits
+WOODY,NUTTY,HAZELNUT,hazelnut|hazelnuts|praline|pralines|nutella|gianduja|filberts|chocolate praline
+WOODY,NUTTY,WALNUT,walnut|walnuts|walnut skin|walnut skins|walnut oil|green walnut|pickled walnut
+WOODY,NUTTY,PECAN,pecan|pecans|pecan pie|candied pecans
+WOODY,NUTTY,BRAZIL NUT,brazil nut|brazil nuts|macadamia|macadamias|macadamia nuts|cashew|cashews|cashew nuts|pistachio|pistachios
+WOODY,NUTTY,PEANUT,peanut|peanuts|peanut butter|peanut brittle|salted peanuts|monkey nuts|groundnuts|peanut butter cups
+WOODY,NUTTY,CHESTNUT,chestnut|chestnuts|roasted chestnuts|roasted chestnut|chestnut puree|marron glacé|marrons glacés|acorn|acorns
+WOODY,NUTTY,NUTTY,nut|nuts|nutty|nuttiness|nuttier|mixed nuts|nutshell|nutshells|nut cake|nut brittle|nuts and raisins
+WOODY,NUTTY,COCONUT,coconut|coconuts|coconut cream|coconut ice|desiccated coconut|coconut milk|coconut macaroon|coconut macaroons|coconut flakes|coconut oil|bounty bar
+WOODY,VANILLA,VANILLA,vanilla|vanillin|vanilla pod|vanilla pods|vanilla bean|vanilla beans|vanilla essence|vanilla extract|vanilla sugar|vanilla seeds|vanilla sponge|vanilla custard slice
+WOODY,VANILLA,CUSTARD,custard|custards|crème anglaise|creme anglaise|crème brûlée|creme brulee|crème brulee|creme brûlée|vanilla custard|egg custard|custard cream|custard creams|crème caramel|creme caramel|flan|panna cotta
+WOODY,VANILLA,ICE CREAM,ice cream|vanilla ice cream|soft serve|creamsicle|orange creamsicle|gelato|sundae|knickerbocker glory|raspberry ripple|ice cream soda
+WOODY,CARAMEL,CARAMEL,caramel|caramels|caramelized|caramelised|salted caramel|caramelized fruits|caramelized sugar|caramel sauce|caramel custard|dulce de leche|cajeta|burnt caramel
+WOODY,CARAMEL,TOFFEE,toffee|toffees|brittle toffee|hard toffee|butter toffee|treacle toffee|toffee nuts|toffee nougat|toffee sauce|banoffee toffee
+WOODY,CARAMEL,FUDGE,fudge|fudges|vanilla fudge|chocolate fudge|butter fudge|scottish tablet|tablet fudge
+WOODY,CARAMEL,TREACLE,treacle|black treacle|molasses|blackstrap|blackstrap molasses|golden treacle|parkin treacle
+WOODY,CARAMEL,SYRUP,syrup|syrups|golden syrup|cane syrup|sugar syrup|simple syrup|corn syrup|agave syrup|date syrup|pancake syrup
+WOODY,CARAMEL,MAPLE,maple|maple syrup|maple sugar|maple candy|maple glaze
+WOODY,CARAMEL,BROWN SUGAR,brown sugar|brown sugars|demerara|demerara sugar|muscovado|muscovado sugar|burnt sugar|dark sugar|dark brown sugar|light brown sugar|jaggery|panela|caramelised sugar|cane sugar|turbinado
+WOODY,CARAMEL,COFFEE,coffee|coffees|espresso|espressos|coffee beans|coffee bean|coffee grounds|black coffee|milky coffee|cappuccino|latte|roasted coffee|roasted coffee beans|mocha|mochaccino|coffee cake|iced coffee|espresso bean|espresso beans|chocolate covered coffee beans|chicory|coffee liqueur
+WOODY,CARAMEL,TOAST,toast|toasted|toasty|toasting|burnt toast|toasted bread|toastiness|lightly toasted|french toast
+WOODY,CARAMEL,LICORICE,licorice|liquorice|licorice root|liquorice root|black licorice|red licorice|licorice stick|licorice sticks|licorice allsorts|liquorice allsorts|pontefract cakes|salmiak|salty licorice
+WOODY,CARAMEL,CANDY FLOSS,candyfloss|candy floss|cotton candy|fairy floss|spun sugar
+WOODY,CHOCOLATE,DARK CHOCOLATE,dark chocolate|plain chocolate|bitter chocolate|bittersweet chocolate|unsweetened chocolate|unsweetened dark chocolate|cacao|cacao nibs|dark chocolates|extra dark chocolate|high cocoa chocolate
+WOODY,CHOCOLATE,COCOA,cocoa|cocoa powder|cocoa nibs|cocoa bean|cocoa beans|drinking chocolate|hot chocolate|cocoa dusted|cocoa butter
+WOODY,CHOCOLATE,MILK CHOCOLATE,milk chocolate|milky chocolate|chocolate milk|milk chocolates|dairy milk
+WOODY,CHOCOLATE,WHITE CHOCOLATE,white chocolate|white chocolates
+WOODY,CHOCOLATE,CHOCOLATE,chocolate|chocolates|chocolatey|chocolaty|chocolate shavings|chocolate covered|chocolate coated|chocolate ganache|ganache|chocolate truffle|chocolate truffles|chocolate mousse|chocolate cake|chocolate brownie|chocolate brownies|brownie|brownies|chocolate sauce|chocolate chips|chocolate bar|chocolate box|chocolate eclair|choc|chocolate biscuits
+WOODY,SPICY,PEPPER,pepper|peppery|pepperiness|peppered|peppering|black pepper|white pepper|ground pepper|freshly ground pepper|freshly ground black pepper|cracked pepper|cracked black pepper|cracked peppercorn|cracked peppercorns|peppercorn|peppercorns|pink peppercorn|pink peppercorns|green peppercorn|szechuan pepper|sichuan pepper
+WOODY,SPICY,CINNAMON,cinnamon|cinnamon sticks|cinnamon stick|cassia|cinnamon bark|cinnamon toast|cinnamon rolls|cinnamon buns|cinnamon sugar|red hots
+WOODY,SPICY,CLOVE,clove|cloves|clove oil|studded orange
+WOODY,SPICY,NUTMEG,nutmeg|nutmegs|mace|grated nutmeg
+WOODY,SPICY,GINGER,ginger|gingery|root ginger|ginger root|stem ginger|fresh ginger|ground ginger|candied ginger|crystallized ginger|crystallised ginger|ginger beer|ginger ale|pickled ginger|ginger marmalade|ginger wine
+WOODY,SPICY,ANISE,anise|aniseed|star anise|fennel|fennel seed|fennel seeds|pastis|ouzo|absinthe|sambuca|anisette|arak|raki
+WOODY,SPICY,CHILI,chili|chilli|chilies|chillies|chili pepper|chili heat|cayenne|paprika|jalapeño|jalapeno|chipotle|chili powder|hot sauce|tabasco
+WOODY,SPICY,CARDAMOM,cardamom|cardamon|cardamom pods
+WOODY,SPICY,CORIANDER,coriander|coriander seed|coriander seeds|toasted coriander|roasted coriander|caraway|caraway seeds
+WOODY,SPICY,CUMIN,cumin|cumin seed|cumin seeds|garam masala|curry|curry powder|turmeric|five spice|chinese five spice|fenugreek|masala|tandoori
+WOODY,SPICY,MUSTARD,mustard|mustard seed|mustard seeds|dijon|english mustard|wholegrain mustard|horseradish|wasabi
+WOODY,SPICY,ALLSPICE,allspice|mixed spice|pimento|pumpkin spice
+WOODY,SPICY,SPICE,spice|spices|spicy|spiciness|spicier|spiced|mixed spices|spice notes|dusting of spice|spice rack|spice box|spice market|spicy notes
+WOODY,SPICY,WOOD SPICE,wood spice|wood spices|oak spice|oak spices|woody spice|woody spices|oaky spice|oaky spices|spicy oak notes
+WOODY,SPICY,BAKING SPICE,baking spice|baking spices|sweet spice|sweet spices|christmas spice|christmas spices|cozy christmas spices|warm spice|warm spices|warming spice|warming spices|mulling spices|mulled wine|mulled wine spices|festive spice|festive spices|winter spice|winter spices|pie spice|spiced cake|spice cake
+WOODY,SPICY,EXOTIC SPICE,exotic spice|exotic spices|oriental spice|oriental spices|eastern spice|eastern spices|asian spice|asian spices|middle eastern spices|souk|spice bazaar|indian spices
+WOODY,CASK,SHERRY,sherry|sherried|sherrylike|sherry notes|sherry influence|rich sherry|dry sherry|sweet sherry|cream sherry|overt sherry|heavily sherried|richly sherried|sherry trifle|sherry soaked|sherry character|sherried fruit|sherried fruits|dark sherry|full sherry|sherry bomb
+WOODY,CASK,OLOROSO,oloroso|oloroso sherry|amoroso|matusalem|matusalem oloroso
+WOODY,CASK,PX,pedro ximénez|pedro ximenez|pedro ximinez|pedro ximénes|px|px sherry
+WOODY,CASK,FINO,fino|fino sherry|manzanilla|manzanilla sherry|amontillado|amontillado sherry|palo cortado
+WOODY,CASK,PORT,port|port wine|tawny port|ruby port|vintage port|lbv port|late bottled vintage|port notes
+WOODY,CASK,MADEIRA,madeira|marsala|malmsey|bual|sercial|verdelho|vin santo|moscatel|muscat|muscatel|sweet wine|dessert wine|sauternes|tokaji|tokay|ice wine|icewine|fortified wine|fortified wines|mistelle|pineau
+WOODY,CASK,RED WINE,red wine|red wines|claret|cabernet|cabernet sauvignon|syrah|shiraz|grenache|barolo|burgundy|bordeaux|bordeaux wine|pinot noir|merlot|zinfandel|rioja|tempranillo|chianti|amarone|mulled red wine
+WOODY,CASK,WHITE WINE,white wine|white wines|chardonnay|sauvignon blanc|riesling|chenin blanc|viognier|champagne|prosecco|sparkling wine
+WOODY,CASK,WINE,wine|wines|winey|winy|wine notes|vinous|grape must
+WOODY,CASK,RUM,rum|rums|rummy|dark rum|demerara rum|caribbean rum|rhum|rhum agricole|pot still rum|navy rum|spiced rum|rum and raisin|rum baba|rum butter
+WOODY,CASK,BRANDY,brandy|brandies|cognac|armagnac|calvados|apple brandy|pear brandy|grappa|eau de vie|eaux de vie|marc|brandy butter|brandy snaps
+WOODY,CASK,BOURBON,bourbon|bourbony|bourbon notes|bourbon influence|bourbon sweetness|bourbon character
+WOODY,CASK,RANCIO,rancio|rancio notes
+WOODY,CASK,LIQUEUR,liqueur|liqueurs|grand marnier|cointreau|drambuie|triple sec|curaçao|curacao|chartreuse|benedictine|frangelico|baileys|irish cream|advocaat|limoncello
+WOODY,CASK,BEER,beer|beers|ale|ales|stout|stouts|porter|ipa|lager|craft beer|imperial stout|brown ale|beer notes
+EARTHY,EARTHY,EARTHY,earthy|earth|earthiness|soil|loam|loamy|forest floor|damp earth|freshly dug earth|freshly dug|mud|muddy|clay|wet earth|potting soil|compost|humus|earthy notes|rooty|rootsy|roots|root cellar|tree roots
+EARTHY,EARTHY,MUSHROOM,mushroom|mushrooms|chanterelle|chanterelles|chanterelle mushroom|chanterelle mushrooms|fungal|fungi|fungus|porcini|cep|ceps|forest mushrooms|mushroomy|shiitake|morel|morels|truffle oil
+EARTHY,EARTHY,MOSS,moss|mossy|damp moss|lichen|peat moss|mosses
+EARTHY,MUSTY,MUSTY,musty|mustiness|mouldy|moldy|mould|mold|mildew|mildewy|fusty|dank|damp|dampness|cellar|cellars|wet cellar|cellar floor|old cellar|damp cellar|corked|corky
+EARTHY,MUSTY,DUNNAGE,dunnage|dunnage warehouse|warehouse|warehouses|bonded warehouse|cask warehouse|warehouse floor|earthen floor
+EARTHY,MUSTY,DUSTY,dust|dusty|dustiness|dusty bookshelves|old books|old library|library|bookshelves|attic|dusty attic|dusty room|musty books
+EARTHY,MUSTY,TWEED,tweed|tweeds|damp tweed|wet tweed|rain moistened tweed|wet wool|woolen|woollen|wool|woolly|wet dog wool|hessian|burlap|jute|sackcloth|sacking|bung cloths|bung cloth|musty bung cloths|canvas|fabric|linen|cloth|wet fabric
+EARTHY,MUSTY,CAMPHOR,camphor|mothball|mothballs|naphtha|naphthalene|paraffin|kerosene|lamp oil|paraffin wax
+EARTHY,MUSTY,VINEGAR,vinegar|vinegary|balsamic|balsamic vinegar|acetic|sherry vinegar|malt vinegar|pickling vinegar
+EARTHY,MINERAL,MINERAL,mineral|minerality|minerals|mineralic|flinty|flint|slate|wet stones|wet stone|stony|stone|stones|pebbles|beach pebbles|river stones|gravel|hot sand|sand|sandy|chalk|chalky|limestone|crushed stone|wet rocks|granite|graphite
+SWEET,CONFECTIONERY,CANDY,candy|candies|sweets|boiled sweets|boiled fruit sweets|fruit sweets|hard candy|hard candies|lollipop|lollipops|confectionery|confection|confections|bonbons|bonbon|toffee bonbons|candy shop|sweet shop|sweetie|sweeties|rock candy|candy cane|candy canes|humbugs|sherbet lemons|lemon drops candy|dolly mixtures|candy necklace|kola cubes|pear drops candy|fondant|fondants|fondant creams|orange fondant|love hearts|spangles|refreshers|smarties|skittles|starburst|haribo
+SWEET,CONFECTIONERY,BARLEY SUGAR,barley sugar|barley sugars|barley sweets|butterscotch sweets
+SWEET,CONFECTIONERY,FRUIT GUMS,fruit gum|fruit gums|wine gum|wine gums|gum drops|gumdrops|jelly babies|jelly baby|jelly beans|jelly bean|jellybeans|jelly|jellies|pastilles|pastille|fruit pastilles|fruit pastille|gummy bears|gummies|jujubes|turkish delight|turkish delights|lokum|fruit leather|fruit chews|pâte de fruit|pate de fruit|fruit jellies|jellied fruits|jellied fruit
+SWEET,CONFECTIONERY,SHERBET,sherbet|sherbets|lemon sherbet|sherbet dip|sherbet fountain|dib dab|fizzy sweets|space dust
+SWEET,CONFECTIONERY,BUBBLEGUM,bubble gum|bubblegum|chewing gum|raspberry bubblegum|bubble gums|juicy fruit gum
+SWEET,CONFECTIONERY,TAFFY,taffy|taffy candy|salt water taffy|tootsie roll|caramel chews|chewy sweets
+SWEET,CONFECTIONERY,MARSHMALLOW,marshmallow|marshmallows|toasted marshmallow|toasted marshmallows|marshmallow fluff|mallow|s'mores|smores
+SWEET,CONFECTIONERY,NOUGAT,nougat|nougats|torrone|turrón|turron|halva|halvah
+SWEET,CONFECTIONERY,SUGAR,sugar|sugars|sugary|sugared|icing sugar|icing|frosting|confectioner's sugar|confectioners' sugar|confectioners sugar|powdered sugar|caster sugar|white sugar|sugar coated|sugar cubes|sugar cane|sugarcane|candied|crystallized sugar|sugar crust|glaze|glazed|sugar glaze|hundreds and thousands|sprinkles
+SWEET,CONFECTIONERY,SODA,cream soda|cola|colas|root beer|dr pepper|lemonade soda|soda|sodas|soda pop|dandelion and burdock|irn bru|ginger soda|cherry cola|vanilla cola|tonic water
+SWEET,BAKED,CAKE,cake|cakes|sponge|sponge cake|pound cake|madeira cake|cake mix|cake batter|victoria sponge|carrot cake|lemon cake|muffin|muffins|cupcake|cupcakes|angel cake|battenberg|bundt cake|cake icing|cake frosting|genoa cake|fairy cakes|swiss roll|jaffa cakes|jaffa cake|lemon drizzle|drizzle cake
+SWEET,BAKED,PASTRY,pastry|pastries|patisserie|danish pastry|danish|pain au chocolat|puff pastry|shortcrust|baklava|churros|doughnut|doughnuts|donut|donuts|eclair|eclairs|profiteroles|croissants|choux|brioche bun|cinnamon bun|sticky bun|chelsea bun
+SWEET,BAKED,PIE,pie|pies|crumble|crumbles|cobbler|cobblers|strudel|lemon meringue pie|lemon meringue|key lime pie|banoffee|banoffee pie|rhubarb pie|cream pie|custard pie|cherry pie|blueberry pie|peach cobbler|fruit crumble|bakewell tart|custard tart|treacle tart|frangipane tart|pastry cream|pumpkin pie|sweet potato pie
+SWEET,BAKED,COOKIE,cookie|cookies|cookie dough|shortbread|shortbread cookies|shortbread biscuits|biscotti|macaroon|macaroons|macaron|macarons|amaretti|snickerdoodle|oreo|oreos|brandy snap|florentine|florentines|langues de chat|stroopwafel
+SWEET,BAKED,PUDDING,pudding|puddings|dessert|desserts|trifle|trifles|cheesecake|cheesecakes|bread and butter pudding|butter pudding|sticky toffee pudding|toffee pudding|rice pudding|tiramisu|tiramisù|mousse|souffle|soufflé|pavlova|eton mess|summer pudding|bread pudding|creme brulee pudding|jam roly poly|spotted dick|queen of puddings
+SWEET,BAKED,GINGERBREAD,gingerbread|ginger cake|ginger snaps|ginger snap|gingersnaps|gingersnap|ginger nuts|ginger nut|ginger biscuits|ginger biscuit|parkin|lebkuchen|speculoos|spekulatius|freshly baked ginger cake|ginger loaf
+SWEET,BAKED,PANCAKE,pancake|pancakes|waffle|waffles|batter|pancake batter|crepe|crepes|crêpe|crêpes|fritters|scone|scones|crumpets|hot cross buns|maple pancakes|griddle cakes
+SWEET,BAKED,MERINGUE,meringue|meringues|pavlova meringue
+SWEET,BAKED,BAKED,baking|freshly baked|bakery|baked goods|oven fresh|baked|bakeshop|bake
+STALE,CARDBOARD,CARDBOARD,cardboard|papery|paper|wet cardboard|brown paper|wrapping paper|brown wrapping paper|newspaper|cardboard box|filter paper|parchment
+STALE,METALLIC,METALLIC,metallic|metal|iron|rusty|rust|copper coins|coins|tinny|inky|ink|steel|wet iron|tin|brass|cast iron|metal polish|iron filings|gunmetal|pewter
+SULPHURY,SULPHUR,SULPHUR,sulphur|sulfur|sulphury|sulfury|sulphurous|sulfurous|struck match|struck matches|spent match|spent matches|burnt match|burnt matches|matchstick|matchsticks|gunpowder|cordite|fireworks|firework|gas|town gas|coal gas|sulphides|rotten egg|rotten eggs|eggy|hard boiled egg
+SULPHURY,SULPHUR,RUBBER,rubber|rubbery|burnt rubber|pencil eraser|eraser|erasers|tyre|tyres|tire|tires|inner tube|inner tubes|plastic|plastics|latex|wellington boots|wellies|bicycle inner tube|vinyl
+SULPHURY,MEATY,MEATY,meaty|meatiness|meat|meats|beef|beef stock|beef broth|gravy|broth|roast meat|roasted meat|roast beef|game|gamey|gamy|venison|lamb|pork|sausage|sausages|roast pork|pork crackling|crackling|hung game|pheasant|oxtail|steak|lamb fat|dripping|beef dripping|meat juices|roast chicken
+SULPHURY,MEATY,SAVORY,savory|savoury|umami|soy|soy sauce|marmite|vegemite|bovril|yeast extract|miso|worcestershire sauce|fish sauce|anchovy|anchovies|stock cube|oxo cube|mushroom soup
+SULPHURY,MEATY,YEASTY,yeast|yeasty|yeastiness|fresh yeast|brewer's yeast|dough yeast|fermented
+SULPHURY,VEGETABLE,VEGETAL,vegetable|vegetables|vegetal|cabbage|potato|potatoes|sweetcorn|sweet corn|pea|peas|green pea|green peas|pea pod|pea pods|tomato|tomatoes|sun dried tomato|celery|cucumber|cucumbers|beetroot|beet|artichoke|asparagus|bell pepper|bell peppers|red pepper|red peppers|green pepper|green peppers|capsicum|cooked vegetables|root vegetables|turnip|parsnip|carrot|carrots|brussels sprouts|broccoli|spinach|kale|vegetable stock
+SULPHURY,VEGETABLE,OLIVE,olive|olives|green olive|green olives|black olive|black olives|kalamata|kalamata olive|kalamata olives|smoked olive|smoked olives|spanish olive|spanish olives|olive tapenade|tapenade|olive stone|picholine
+SULPHURY,VEGETABLE,ALLIUM,garlic|garlic bulb|onion|onions|scallion|scallions|shallot|shallots|leek|leeks|chive|chives|spring onion|spring onions|pickled onion|pickled onions|wild garlic
+CHEESY,CHEESY,CHEESY,cheesy|cheese|cheeses|cheddar|parmesan|sour milk|rancid|baby sick|vomit|butyric|blue cheese|goat cheese|goat's cheese|feta|brie|camembert|stilton|roquefort|gruyere|gouda
+CHEESY,ANIMAL,ANIMAL,sweaty|sweat|musky|musk|farmyard|barnyard|stables|horse|horses|horse blanket|sheep|sheep pens|sheep pen|sheepdip|wet dog|animal|animalic|dung|manure|piggery|pig sty|pigsty|cowshed|byre|wet fur|fur|feral|funky|funk|gamey leather
+OILY,WAXY,WAXY,wax|waxy|waxiness|waxed|candle wax|candle|candles|beeswax|lanolin|wax crayons|crayons|wax jacket|waxed jacket|barbour jacket|wax fruit|waxed fruit|paraffin candle|shoe polish|boot polish
+OILY,WAXY,SOAPY,soap|soapy|detergent|laundry|washing powder|clean linen|fresh laundry|laundry detergent|soap suds|washing up liquid|fabric softener|talcum|talcum powder|talc|face powder
+OILY,BUTTERY,BUTTER,butter|buttery|buttered|brown butter|melted butter|butter pastry|butter cream|buttercream|butteriness|ghee|salted butter|beurre noisette|buttered toast|butter icing
+OILY,BUTTERY,BUTTERSCOTCH,butterscotch|butterscotches|butterscotch sauce|butterscotch candy|butterscotch pudding
+OILY,BUTTERY,CREAMY,cream|creamy|creaminess|creamier|clotted cream|whipped cream|fresh cream|double cream|single cream|crème fraîche|creme fraiche|sour cream|cream cheese|mascarpone|lingering creaminess|creamed|creamily|ice cream float
+OILY,BUTTERY,MILKY,milk|milky|milkiness|dairy|yogurt|yoghurt|condensed milk|evaporated milk|milk powder|milkshake|milkshakes|malted milkshake|buttermilk|lassi|custard milk|warm milk|hot milk|milk bottle
+OILY,FAT,OIL,oil|oils|linseed|linseed oil|engine oil|machine oil|motor oil|gun oil|mineral oil|diesel|olive oil|nut oil|sesame oil|sunflower oil|castor oil|lubricant|grease|greasy|fatty|fat|lard|dripping fat|oily fish
+OILY,FAT,FISH OIL,fish oil|cod liver oil|fishy|fish|fish skin|fish market|fish scales|smoked fish oil
+TASTE,SWEET,SWEET,sweet|sweetness|sweeter|sweetest|sweetly|sweetened|sweetening|sweetens|sweetish|sweet tooth
+TASTE,SOUR,SOUR,sour|sourness|tart|tartness|tangy|tang|tanginess|puckering|mouth puckering
+TASTE,SOUR,ACIDITY,acidity|acidic|acid|acids|citric acid|malic|lactic
+TASTE,SALTY,SALT,salt|salty|saltiness|salted|saline|salinity|sea salt|rock salt|table salt|salty tang|salt spray|salt flakes|maldon salt|sea salt flakes|salt water|saltwater|salt crust
+TASTE,SALTY,BRINE,brine|briny|brininess|pickle|pickles|pickled|pickle juice|brined
+TASTE,MARITIME,SEA AIR,sea|sea air|sea breeze|sea breezes|sea spray|seaside|seashore|shore|shoreline|beach|beaches|coast|coastal|maritime|marine|ozone|ozonic|rock pools|rock pool|rockpools|rockpool|tidal|tide|harbour|harbor|docks|dock|quayside|boat|boats|seafront|sea mist|sea fog|spindrift|waves|surf|sea shanty|sea water|seawater|fishing nets
+TASTE,MARITIME,SEAWEED,seaweed|seaweeds|kelp|samphire|dulse|laver|nori|kombu|bladderwrack|dried seaweed|wet seaweed
+TASTE,MARITIME,SHELLFISH,oyster|oysters|oyster shells|oyster shell|seashell|seashells|shells|shell|mussels|mussel|lobster|lobsters|scallop|scallops|crab|crabs|clam|clams|shellfish|seafood|shrimp|prawns|cockles|winkles|crustacean|lobster shell|crab shells
+TASTE,BITTER,BITTER,bitter|bitterness|bitters|bittersweet|quinine|tonic|bitter notes|slightly bitter|bitter edge|bitter herbs|angostura|campari|aperol|chinotto
+MOUTHFEEL,WARMING,WARM,warm|warmth|warming|warms|warmer|glow|glowing|warming glow|comforting warmth|heartwarming
+MOUTHFEEL,WARMING,HEAT,heat|hot|fiery|burn|burns|bite|kick|kicks|heatwave|scorching|firewater|searing
+MOUTHFEEL,COATING,COATING,coating|mouth coating|mouthcoating|coats|coated|clinging|clingy|clings|mouth filling|mouthfilling|mouth coats|palate coating|coats the palate|coats the mouth|coats the throat|lip smacking|tongue coating|mouth watering|mouthwatering|coats the tongue
+MOUTHFEEL,COATING,OILY,oily|oiliness|almost oily|slightly oily|oily texture|oily in texture|oiled|slick|slickness
+MOUTHFEEL,COATING,VISCOUS,viscous|viscosity|syrupy|unctuous|thick|thickness|thickly|sticky|stickiness|glossy|weighty|heft|hefty|dense|density|thicker|gloopy|treacly
+MOUTHFEEL,COATING,CHEWY,chewy|chewiness|chews|chewing|almost chewy|chewable|toothsome
+MOUTHFEEL,SMOOTH,SMOOTH,smooth|smoothness|smoother|silky|silken|silkiness|velvety|velvet|supple|satin|satiny|glassy|silky smooth|soothing|soothingly|mellow|mellowed|mellowness|mellower
+MOUTHFEEL,SMOOTH,SOFT,soft|softness|softer|softly|gentle|gentler|gently|tender|pillowy|plush|cushioned|softened|softens
+MOUTHFEEL,SMOOTH,ROUNDED,round|rounded|well rounded|nicely rounded|roundness|rounds|rounded out|fleshy|plump|full fleshed|mouth rounding|soft rounded
+MOUTHFEEL,ASTRINGENT,DRY,dry|dries|drier|driest|dryness|dryish|drying|dries out|becoming dry|slowly drying|drying slowly|dries steadily|dries slowly|mouth drying|drying oak finish|dry finish|drying finish
+MOUTHFEEL,ASTRINGENT,TANNIC,tannic|tannin|tannins|oak tannins|tannic edge|slightly tannic
+MOUTHFEEL,ASTRINGENT,GRIP,grip|grippy|gripping|astringent|astringency|powdery|furry|mouth drawing|puckery
+OVERALL,BODY,FULL BODY,full bodied|full body|full in body|fuller bodied|full weight|heavy|heavier|heaviness|big bodied|rich bodied|full|fuller|fullness|substantial|heavyweight|heavy weight|medium to full|relatively full bodied|relatively full|big body|chunky|muscular
+OVERALL,BODY,MEDIUM BODY,medium bodied|medium body|medium in body|medium weight|light to medium|light medium|mid weight|middleweight|middle weight|medium bodied texture|moderate body
+OVERALL,BODY,LIGHT BODY,light bodied|light body|light in body|lightweight|light weight|thin|thinner|thinness|watery|lean|slender|delicate body|wispy|fragile|lighter bodied
+OVERALL,BODY,BODY,body|bodied|weight|mouth weight
+OVERALL,FINISH,LONG FINISH,long|lengthy|lingering|lingers|linger|lingered|persistent|persists|persist|persistence|long lasting|long finish|lengthy finish|long lingering|extremely long|very long|endless|never ending|goes on|lasting|enduring|relatively long|relatively lengthy|long tail
+OVERALL,FINISH,MEDIUM FINISH,medium length|medium in length|medium long|medium to long|medium length finish|medium finish|moderate length|average length|moderate finish
+OVERALL,FINISH,SHORT FINISH,short|shortish|brief|short finish|fleeting|fades quickly|abrupt|clipped|truncated|short lived|fades fast
+OVERALL,BALANCE,BALANCED,balanced|balance|balances|balancing|well balanced|nicely balanced|beautifully balanced|perfectly balanced|superbly balanced|harmonious|harmony|harmoniously|seamless|seamlessly|cohesive|coherent|integrated|integration|well integrated|nicely integrated|well judged|well made|well crafted|in balance|poise|poised|equilibrium|well defined
+OVERALL,BALANCE,STRUCTURED,structure|structured|well structured|backbone|firm|firmness|framework|architecture|spine|tight|taut|focused|precise|precision|linear
+OVERALL,BALANCE,LAYERED,layered|layers|layer|multi layered|multilayered|multifaceted|multi faceted|nuanced|nuances|nuance|facets|dimension|dimensions|dimensional|three dimensional
+OVERALL,DESCRIPTORS,COMPLEX,complex|complexity|complexities|subtly complex|incredibly complex|intricate|intricacy
+OVERALL,DESCRIPTORS,DEPTH,depth|deep|deeper|deeply|profound|profoundly
+OVERALL,DESCRIPTORS,INTENSE,intense|intensity|intensely|concentrated|concentration|full flavored|flavorful|flavoursome|flavorsome|full flavoured|packed|loaded|saturated|potent
+OVERALL,DESCRIPTORS,POWERFUL,powerful|power|powerfully|big|bigger|huge|massive|bold|bolder|boldly|robust|assertive|forceful|punchy|punch|explosive|monster|beast|brawny|brutal|hulking|gutsy|fireball|thumping|in your face|uncompromising|fierce|wild|feisty
+OVERALL,DESCRIPTORS,RICH,rich|richness|richer|richly|richest
+OVERALL,DESCRIPTORS,LUSH,lush|lushness|luscious|opulent|opulence|decadent|decadence|indulgent|voluptuous|sumptuous|succulent|generous|lavish|hedonistic|sensuous|sensual
+OVERALL,DESCRIPTORS,DELICATE,delicate|delicately|fragility|gossamer|light|lightness|lighter|airy|ethereal|lacy|feathery|dainty
+OVERALL,DESCRIPTORS,SUBTLE,subtle|subtly|subtlety|subtler|restrained|understated|discreet|discreetly|reticent|shy|muted|quiet|quietly|closed|tame|tamed|reserved|modest|low key|timid|coy
+OVERALL,DESCRIPTORS,ELEGANT,elegant|elegance|elegantly|refined|refinement|finesse|finessed|sophisticated|sophistication|classy|stylish|polished|graceful|gracefully|grace|fine boned|well mannered|dignified|genteel|aristocratic|noble|regal|pedigree|thoroughbred|chic|urbane|suave|effortless|mannered
+OVERALL,DESCRIPTORS,FRESH,fresh|freshness|fresher|refreshing|refreshingly|invigorating|reviving|revitalizing|cooling|cool|breezy|summery|spring like|springlike|alpine|outdoorsy
+OVERALL,DESCRIPTORS,CLEAN,clean|cleaner|cleanly|cleanness|crisp|crispness|pure|purity|pristine|squeaky clean|clean cut
+OVERALL,DESCRIPTORS,LIVELY,lively|liveliness|bright|brighter|brightness|vibrant|vibrancy|zesty|zippy|perky|sprightly|spritely|energetic|energy|dynamic|spirited|vivacious|animated|vivid|zip|pep|peppy|buzz|buzzing|alive|exuberant|playful|frisky|jaunty
+OVERALL,DESCRIPTORS,YOUNG,young|youthful|youth|younger|youngish|immature|juvenile|callow|youthfulness
+OVERALL,DESCRIPTORS,MATURE,mature|maturity|venerable|well aged|oxidative|oxidized|oxidised|oxidation|antique|old style|aged character|older style|time worn|ancient|grand old|faded|elderly|dowager|vintage character
+OVERALL,DESCRIPTORS,EXCELLENT,excellent|superb|superbly|outstanding|exceptional|exceptionally|magnificent|stunning|stunner|sublime|brilliant|brilliantly|fantastic|terrific|amazing|amazingly|remarkable|remarkably|exemplary|great|gorgeous|wonderful|wonderfully|beautiful|beautifully|impressive|impressively|incredible|incredibly good|masterpiece|masterful|masterclass|tour de force|world class|first rate|top notch|top class|phenomenal|breathtaking|spectacular|glorious|marvelous|marvellous|splendid|exquisite|flawless|perfect|perfection|immaculate|impeccable|impeccably|faultless|legendary|iconic|epic|awesome|bomb|stellar|treasure|gem|jewel|treat|winner|triumph|knockout|showstopper|stunningly|beautifully made
+OVERALL,DESCRIPTORS,DELICIOUS,delicious|deliciously|delightful|delightfully|tasty|lovely|nice|pleasant|pleasantly|pleasing|pleasingly|enjoyable|satisfying|charming|appealing|attractive|moreish|appetizing|appetising|appetizingly|enticing|inviting|seductive|alluring|tempting|yummy|scrumptious|gratifying|rewarding|comforting|cozy|cosy|irresistible|likable|likeable|winsome|delectable|agreeable|well liked
+OVERALL,DESCRIPTORS,INTERESTING,interesting|intriguing|intrigue|fascinating|exciting|compelling|characterful|distinctive|individualistic|unique|idiosyncratic|peculiar|unusual|curious|curiously|quirky|eccentric|offbeat|atypical|unconventional|oddball|singular|intriguingly|thought provoking|challenging|enigmatic|mysterious|mystery|intrigues|captivating|engaging|beguiling|bewitching|hypnotic
+OVERALL,DESCRIPTORS,EASY,easy drinking|drinkable|drinkability|approachable|accessible|easy going|uncomplicated|simple|simplicity|straightforward|straight forward|everyday|quaffable|crowd pleaser|crowd pleasing|unchallenging|easy sipping|gluggable|sessionable|affable|friendly|amiable
+OVERALL,DESCRIPTORS,DECENT,decent|solid|fair|okay|ok|acceptable|competent|pleasant enough|reasonable|respectable|serviceable|adequate|good|goodness|fine|finest|well done|nicely done|worthy|worthwhile|worth a look|worth trying|well worth
+OVERALL,DESCRIPTORS,CLASSIC,classic|classical|traditional|old fashioned|old school|benchmark|textbook|typical|archetypal|quintessential|signature|hallmark|trademark|house style|true to type|typicity|definitive|timeless
+OVERALL,DESCRIPTORS,DULL,bland|dull|flat|tired|one dimensional|lifeless|disappointing|disappoint|uninspiring|boring|uninteresting|washed out|hollow|empty|vapid|insipid|limp|lackluster|lacklustre|pedestrian|mediocre|underwhelming|unremarkable|forgettable|nondescript|generic|austere|spartan|stark|meek|anemic|weak
+OVERALL,DESCRIPTORS,CLOYING,cloying|cloyingly|sickly|sickly sweet|overly sweet|too sweet|saccharine|overripe|over ripe
+OVERALL,DESCRIPTORS,UNBALANCED,unbalanced|imbalanced|disjointed|awkward|overpowering|overpowered|overwhelming|overwhelmed|excessive|excessively|domineering|overbearing|overoaked|over oaked|too much oak|too woody|out of balance|clumsy|muddled|confused|jarring|clashing|rough edges|edgy|flawed|flaws|off notes|off note|faults|faulty|unpleasant|unappealing|odd|strange|weird|problematic|struggle|struggles|struggling

@@ -1,0 +1,38 @@
+{
+ "reviews": 2247,
+ "share_90plus": 0.2541,
+ "wheel": {
+  "categories": 17,
+  "subcategories": 58,
+  "normalized": 270,
+  "normalized_used": 270,
+  "specific_forms": 6746
+ },
+ "attributes_per_review_mean": 14.93,
+ "reviews_without_attribute": 1,
+ "holdout": {
+  "A_read_before_dictionary": {
+   "reviews": 40,
+   "hand_phrases": 588,
+   "recall": 0.9864,
+   "precision": 0.932,
+   "per_review_rate_mean": 0.9875,
+   "per_review_rate_min": 0.8571
+  },
+  "B_after_freeze": {
+   "reviews": 40,
+   "hand_phrases": 587,
+   "recall": 0.9472,
+   "precision": 0.9445,
+   "per_review_rate_mean": 0.946,
+   "per_review_rate_min": 0.75
+  }
+ },
+ "baseline_accuracy": 0.7459,
+ "ablation_auc": {
+  "all attributes": 0.7424,
+  "flavour and structure only": 0.6519,
+  "verdict words only": 0.7302
+ },
+ "wishart_distilleries": 71
+}
